@@ -1,0 +1,2166 @@
+NAME,AGE,SEX,AFFILIATION,GROUP,POSITION,CLASS,SURVIVED
+"Smith, Commander Edward John, RNR",62.0,Male,Crew,Officers,Captain,Not applicable,False
+"Wilde, Lieutenant Henry Tingle, RNR",39.0,Male,Crew,Officers,Chief Officer,Not applicable,False
+"Murdoch, Lieutenant William McMaster, RNR",39.0,Male,Crew,Officers,First Officer,Not applicable,False
+"Lightoller, Sub-Lieutenant Charles Herbert, RNR",38.0,Male,Crew,Officers,Second Officer,Not applicable,True
+"Pitman, Mr. Herbert John",34.0,Male,Crew,Officers,Third Officer,Not applicable,True
+"Boxhall, Sub-Lieutenant Joseph Groves, RNR",28.0,Male,Crew,Officers,Fourth Officer,Not applicable,True
+"Lowe, Sub-Lieutenant Harold Godfrey, RNR",29.0,Male,Crew,Officers,Fifth Officer,Not applicable,True
+"Moody, Sub-Lieutenant James Paul, RNR",24.0,Male,Crew,Officers,Sixth Officer,Not applicable,False
+"Anderson, Mr. James",40.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Anderson, Mr. John",41.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Archer, Mr. Ernest Edward",36.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Bailey, Mr. Joseph Henry",43.0,Male,Crew,Deck,Master-at-arms,Not applicable,True
+"Bradley, Mr. T.",29.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Brice, Mr. Walter T.",42.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Bright, Mr. Arthur John",41.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Buley, Mr. Edward John",27.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Clench, Mr. Frederick",34.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Clench, Mr. George James",31.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Couch, Mr. Frank",28.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Davis, Mr. Stephen James",39.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Evans, Mr. Alfred Frank",24.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Evans, Mr. Frank Oliver",24.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Fleet, Mr. Frederick",24.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Foley, Mr. John",44.0,Male,Crew,Deck,Storekeeper,Not applicable,True
+"Forward, Mr. James",27.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Haines, Mr. Albert M.",31.0,Male,Crew,Deck,Boatswain,Not applicable,True
+"Harder, Mr. William",39.0,Male,Crew,Deck,Window Cleaner,Not applicable,True
+"Hemming, Mr. Samuel Ernest",43.0,Male,Crew,Deck,Lamp Trimmer,Not applicable,True
+"Hichens, Mr. Robert",29.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Hogg, Mr. George Alfred",29.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Holman, Mr. Harry",27.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Hopkins, Mr. Robert John",40.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Horswill, Mr. Albert Edward James",33.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Humphreys, Mr. Sidney James",48.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Hutchinson, Mr. John Hall",26.0,Male,Crew,Deck,Carpenter/Joiner,Not applicable,False
+"Jewell, Mr. Archie",23.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Jones, Mr. Thomas William",32.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"King, Mr. Thomas W.",43.0,Male,Crew,Deck,Master-at-arms,Not applicable,False
+"Lee, Mr. Reginald Robinson",41.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Lucas, Mr. William A.",25.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Lyons, Mr. William Henry[13]",26.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Matherson, Mr. David",30.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Mathais, Mr. Montague Vincent",27.0,Male,Crew,Deck,Mess Steward,Not applicable,False
+"Maxwell, Mr. John",31.0,Male,Crew,Deck,Carpenter/Joiner,Not applicable,False
+"McCarthy, Mr. William",47.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"McGough, Mr. James R.",25.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Moore, Mr. George Alfred",32.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Nichols, Mr. Alfred",42.0,Male,Crew,Deck,Boatswain,Not applicable,False
+"O'Loughlin, Dr. William Francis Norman",62.0,Male,Crew,Deck,Surgeon,Not applicable,False
+"Olliver, Mr. Alfred",27.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Osman, Mr. Frank",28.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Pascoe, Mr. Charles H.",43.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Perkis, Mr. Walter John",37.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Peters, Mr. William Chapman",26.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Poingdestre, Mr. John Thomas",33.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Rowe, Mr. George Thomas",32.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Sawyer, Mr. Robert James",30.0,Male,Crew,Deck,Window Cleaner,Not applicable,False
+"Scarrott, Mr. Joseph George",33.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Simpson, Dr. John Edward",37.0,Male,Crew,Deck,Assistant Surgeon,Not applicable,False
+"Smith, Mr. William",26.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Symons, Mr. George Thomas Macdonald",24.0,Male,Crew,Deck,Lookout,Not applicable,True
+"Tamlyn, Mr. Frederick",23.0,Male,Crew,Deck,Mess Steward,Not applicable,False
+"Taylor, Mr. C.",35.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Terrell, Mr. Bertram",20.0,Male,Crew,Deck,Able Seaman,Not applicable,False
+"Vigott, Mr. Philip Francis",32.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Weller, Mr. William Clifford",30.0,Male,Crew,Deck,Able Seaman,Not applicable,True
+"Wynn, Mr. Walter",41.0,Male,Crew,Deck,Quartermaster,Not applicable,True
+"Abrams, Mr. William",33.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Adams, Mr. R.",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Allen, Mr. Henry",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Allen, Mr. Ernest Frederick",24.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Allsop, Mr. Alfred Samuel",34.0,Male,Crew,Engineering,Electrician,Not applicable,False
+"Avery, Mr. James Frank",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Bailey, Mr. George W.",46.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Baines, Mr. Richard",24.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Bannon, Mr. John",32.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Barlow, Mr. Charles",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Barnes, Mr. Charles",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Barnes, Mr. Frederick",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Barrett, Mr. Frederick",28.0,Male,Crew,Engineering,Leading Fireman,Not applicable,True
+"Barrett, Mr. Frederick William",33.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Beattie, Mr. Joseph",34.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Beauchamp, Mr. George William",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Bell, Mr. Joseph",50.0,Male,Crew,Engineering,Chief Engineer,Not applicable,False
+"Bendell, Mr. F.",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Bennett, Mr. George Alfred",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Benville, Mr. E.",42.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Bessant, Mr. William Edward",39.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Bevis, Mr. Joseph Henry",22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Biddlecombe, Mr. Charles",33.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Biggs, Mr. Edward Charles",21.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Billow, Mr. J.",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Binstead, Mr. Walter",19.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Black, Mr. Alexander",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Black, Mr. D.",41.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Blackman, Mr. H.",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Blake, Mr. Percival Albert",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Blake, Mr. Thomas",36.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Blaney, Mr. James",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Blann, Mr. Eustace Horatius",21.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Bott, Mr. W.",44.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Bradley, Mr. Patrick Joseph",39.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Brewer, Mr. Henry ""Harry""",30.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Briant, Mr. Albert",34.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Brooks, Mr. J.",25.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Brown, Mr. John",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Brown, Mr. Joseph James",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Burroughs, Mr. Arthur",35.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Burton, Mr. Edward John",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Butt, Mr. William John",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Calderwood, Mr. Hugh",30.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Canner, Mr. J.",40.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Carr, Mr. Richard Stephen",37.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Carter, Mr. James",46.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Casey, Mr. T.",28.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Castleman, Mr. Edward",37.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Cavell, Mr. George Henry",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Cherrett, Mr. William Victor",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Chisnall, Mr. George Alexander",36.0,Male,Crew,Engineering,Boilermaker,Not applicable,False
+"Chorley, Mr. John",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Clark, Mr. William",39.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Coe, Mr. Harry",21.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Collins, Mr. Samuel",35.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Combes, Mr. George",21.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Cooper, Mr. Harry",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Cooper, Mr. James",25.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Copperthwaite, Mr. B.",22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Corcoran, Mr. Dennis",33.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Cotton, Mr. A.",26.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Couch, Mr. Joseph Henry",45.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Couper, Mr. Robert",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Coy, Mr. Francis Ernest George",26.0,Male,Crew,Engineering,Junior Assistant 3rd Engineer,Not applicable,False
+"Crabb, Mr. H.",23.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Creese, Mr. Henry Philip",44.0,Male,Crew,Engineering,Deck Engineer,Not applicable,False
+"Crimmins, Mr. James",21.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Cross, Mr. W.",39.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Cunningham, Mr. B.",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Curtis, Mr. Arthur",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Davies, Mr. Thomas",33.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Dawson, Mr. Joseph[17]",23.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Diaper, Mr. J.",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Dickson, Mr. W.",36.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Dilley, Mr. John",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Dillon, Mr. Thomas Patrick",25.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Dodd, Mr. Edward Charles",38.0,Male,Crew,Engineering,Junior 3rd Engineer,Not applicable,False
+"Dodds, Mr. Henry Watson",27.0,Male,Crew,Engineering,Junior Assistant 4th Engineer,Not applicable,False
+"Doel, Mr. Frederick",22.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Dore, Mr. A.",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Doyle, Mr. Laurence",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Duffy, Mr. William Luke",28.0,Male,Crew,Engineering,Writer/Engineer's Clerk,Not applicable,False
+"Dyer, Mr. Henry Ryland",24.0,Male,Crew,Engineering,Senior Assistant 4th Engineer,Not applicable,False
+"Dymond, Mr. Frank",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Eagle, Mr. Alfred James",22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Eastman, Mr. Charles",44.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Elliott, Mr. Everett Edward",23.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Ervine, Mr. Albert George",18.0,Male,Crew,Engineering,Assistant Electrician,Not applicable,False
+"Evans, Mr. Williams",32.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Farquharson, Mr. William Edward",39.0,Male,Crew,Engineering,Senior 2nd Engineer,Not applicable,False
+"Fay, Mr. Thomas",30.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Ferrary, Mr. Anton",33.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Ferris, Mr. William",38.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Fitzpatrick, Mr. Charles W.N.",30.0,Male,Crew,Engineering,Mess Steward,Not applicable,True
+"Flarty, Mr. Edward",52.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+Ford. Mr. H.,22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Ford, Mr. Thomas",30.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Foster, Mr. A.",37.0,Male,Crew,Engineering,Engineering Storekeeper,Not applicable,False
+"Fraser, Mr. James",29.0,Male,Crew,Engineering,Junior Assistant Third Engineer,Not applicable,False
+"Fraser, Mr. James",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Fredricks, Mr. Walter Francis",20.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Fryer, Mr. Albert Ernest",26.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Geer, Mr. Alfred Ernest",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Godley, Mr. George",38.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Godwin, Mr. Frederick Charles",36.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Golder, Mr. Martin W.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Gordon, Mr. J.",29.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Goree, Mr. Frank",28.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Gosling, Mr. Bertram James",22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Gosling, S.",26.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Gradidge, Mr. Ernest E.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Graham, Mr. Thomas Gibson",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Green, Mr. George",41.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Gregory, Mr. David",43.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Gumery, Mr. George",24.0,Male,Crew,Engineering,Mess Steward,Not applicable,False
+"Hagan, Mr. John",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Hall, Mr. Joseph",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hallett, Mr. George",23.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hands, Mr. Bernard",34.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hannam, Mr. George",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Harris, Mr. Edward",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Harris, Mr. Frederick",34.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Harrison, Mr. Norman",39.0,Male,Crew,Engineering,Assistant Second Engineer,Not applicable,False
+"Harvey, Mr. Herbert Gifford",34.0,Male,Crew,Engineering,Junior Assistant Second Engineer,Not applicable,False
+"Haslin, Mr. James",45.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Hart, Mr. James",58.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Head, Mr. Arthur",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hebb, Mr. A.",20.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Hendrickson, Mr. Charles Osker",29.0,Male,Crew,Engineering,Leading Fireman,Not applicable,True
+"Hesketh, Mr. John Henry",33.0,Male,Crew,Engineering,Junior Second Engineer,Not applicable,False
+"Hill, Mr. James",25.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Hinton, Mr. Steven William",31.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Hosking, Mr. George Fox",36.0,Male,Crew,Engineering,Senior Third Engineer,Not applicable,False
+"Hunt, Mr. Albert",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Hunt, Mr. T.",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hurst, Mr. Charles",41.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Hurst, Walter",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Ingram, Mr. Charles",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Instance, T.",33.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Jackopson, Mr. John Henry",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Jago, Mr. Joseph",59.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"James, Mr. Thomas",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Jarvis, Mr. William",37.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Joas, Mr. N.",38.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Judd, Mr. Charles E.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Jukes, Mr. James",35.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Jupe, Mr. Herbert",31.0,Male,Crew,Engineering,Assistant Electrician,Not applicable,False
+"Kaspar, Mr. Franz V.",40.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Kearl, Mr. Charles H.",44.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Kearl, Mr. G.",24.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Keegan, Mr. James",38.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Kelly, Mr. James",44.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Kelly, Mr. William",23.0,Male,Crew,Engineering,Assistant Electrician,Not applicable,False
+"Kemish, Mr. George",22.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Kemp, Mr. Thomas Hulman",43.0,Male,Crew,Engineering,Assistant Fourth Engineer,Not applicable,False
+"Kenchenten, Mr. Frederick",37.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Kerr, Mr. Thomas",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Kinsella, Mr. Louis",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Kirkham, Mr. James",43.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Knowles, Mr. Thomas",39.0,Male,Crew,Engineering,Fireman's Messman,Not applicable,True
+"Lahy, Mr. Thomas E.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+Lee. Mr. Henry,18.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Light, Mr. Charles",23.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Light, Mr. W.",47.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Lindsay, Mr. William Charles",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Loyd, Mr. W.",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Long, Mr. Frank",28.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Long, Mr. William",36.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Mackie, Mr. William Dickson",32.0,Male,Crew,Engineering,Junior Fifth Engineer,Not applicable,False
+"Major, Mr. William",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Marett, Mr. George John",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Marsh, Mr. Frederick Charles",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Maskell, Mr. L.A.",25.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Mason, Mr. Frank Archibald Robert",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Mason, Mr. James",39.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"May Jr., Mr. Arthur William",23.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"May Sr., Mr. Arthur William",60.0,Male,Crew,Engineering,Fireman's Messman,Not applicable,False
+"Mayo, Mr. William Peter",27.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Mayzes, Mr. Thomas",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"McAndrew, Mr. Thomas Patrick",38.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McAndrews, Mr. William",23.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McCastlen, Mr. William",38.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McCubbin, Mr. Lee",,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McGann, Mr. James",29.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"McGarvey, Mr. Edward Joseph",34.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McGaw, Mr. Errol Victor",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McGregor, Mr. J. (John Brown Niven)",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McInerney, Mr. Thomas",38.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"McInytre, Mr. William",22.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"McQuillan, Mr. William",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McRae, Mr. William Alexander",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"McReynolds, Mr. William",22.0,Male,Crew,Engineering,Junior Sixth Engineer,Not applicable,False
+"Middleton, Mr. Alfred Pirrie",17.0,Male,Crew,Engineering,Assistant Electrician,Not applicable,False
+"Milford, Mr. George",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Millar, Mr. Robert",27.0,Male,Crew,Engineering,Extra Fifth Engineer,Not applicable,False
+"Millar, Mr. Thomas",33.0,Male,Crew,Engineering,Assistant Deck Engineer,Not applicable,False
+"Mintram, Mr. William",46.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Mitchell, Mr. Lawrence (Lorenzo)",19.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Moore, Mr. John J.",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Moore, Mr. Ralph",21.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Moores, Mr. Richard Henry",44.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Morgan, Mr. Arthur Herbert",27.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Morgan, Mr. Thomas A.",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Morrell, Mr. R. (Albert White)",21.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Morris, Mr. Arthur",30.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Morris, Mr. William Edward",23.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Moyes, Mr. William Young",23.0,Male,Crew,Engineering,Senior Sixth Engineer,Not applicable,False
+"Murdock, Mr. William",34.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Nettleton, Mr. George Walter",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Newman, Mr. Charles Thomas",32.0,Male,Crew,Engineering,Engineering Storekeeper,Not applicable,False
+"Noon, Mr. John",35.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Norris, Mr. James",22.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Noss, Mr. Bertram Arthur",21.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Noss, Mr. Henry",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Nutbean, Mr. William",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"O'Connor, Mr. John",25.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Olive, Mr. Charles",31.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Oliver, Mr. H.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Othen, Mr. Charles",36.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Paice, Mr. Richard Charles John",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Painter, Mr. Charles",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Painter, Mr. Frank",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Palles, Mr. Thomas Henry Michael",45.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Parsons, Mr. Frank Alfred",27.0,Male,Crew,Engineering,Senior Fifth Engineer,Not applicable,False
+"Pearce, Mr. John",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Pelham, Mr. George",39.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Perry, Mr. Edgar Lionel",19.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Perry, Mr. Henry Frederick",23.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Phillips, Mr. G.",27.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Pitfield, Mr. William James",25.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Podesta, Mr. John",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Pond, Mr. George",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Prangnell, Mr. George",31.0,Male,Crew,Engineering,Greaser,Not applicable,True
+"Preston, Mr. Thomas Charles Alfred",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Priest, Mr. Arthur J.",23.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Proudfoot, Mr. Richard Royston",22.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Pugh, Mr. Percy",31.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Pusey, Mr. William Robert Holland",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Ranger, Mr. Thomas G.",29.0,Male,Crew,Engineering,Greaser,Not applicable,True
+"Read, Mr. Joseph",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Reed, Mr. Robert",30.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Reeves, Mr. Robert",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Rice, Mr. Charles",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Richards, Mr. Joseph James",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Rickman, Mr. George Albert",36.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Roberts, Mr. Robert George",35.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Rous, Mr. Arthur John",26.0,Male,Crew,Engineering,Plumber,Not applicable,False
+"Rudd, Mr. Henry",23.0,Male,Crew,Engineering,Engineering Storkeeper,Not applicable,False
+"Rutter, Mr. Sidney",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Sangster, Mr. Charles Edward",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Saunders, Mr. Thomas",,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Saunders, Mr. William Henry",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Saunders, Mr. Walter Ernest",25.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Scott, Mr. Archibald",40.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Scott, Mr. Frederick",28.0,Male,Crew,Engineering,Greaser,Not applicable,True
+"Self, Mr. Alfred Henry",40.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Self, Mr. Edward",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Senior, Mr. Henry",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Shea, Mr. Thomas",29.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Sheath, Mr. Frederick",20.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Shepherd, Mr. Johnathan",32.0,Male,Crew,Engineering,Junior Assistant Second Engineer,Not applicable,False
+"Shiers, Mr. Alfred",24.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Shillaber, Mr. Charles",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Skeates, Mr. William",26.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Sloan, Mr. Peter",31.0,Male,Crew,Engineering,Chief Electrician,Not applicable,False
+"Small, Mr. William",40.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Smith, Mr. Ernest George",27.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Smith, Mr. James Muil",35.0,Male,Crew,Engineering,Junior Fourth Engineer,Not applicable,False
+"Smither, Mr. Harry James",22.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Snellgrove, Mr. George",41.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Snooks, Mr. W",26.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Snowberger, Mr. Eustace Philip",21.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Sparkman, Mr. Henry",36.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Stafford, Mr. Michael (Albert Briant)",34.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Stanbrook, Mr. Augustus",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Steel, Mr. Robert Edward",30.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Stocker, Mr. Henry Dorey",20.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Street, Mr. Henry Albert",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Stubbs, Mr. James Henry",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+Sullivan Mr. S.,25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Taylor, Mr. James",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Taylor, Mr. John",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Taylor, Mr. T.",42.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Taylor, Mr. William Henry",28.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Thomas, Mr. James",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Thompson, Mr. John William",42.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Threlfall, Mr. Thomas",38.0,Male,Crew,Engineering,Leading Fireman,Not applicable,True
+"Thresher, Mr. George",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Tizard, Mr. Arthur Leopold",31.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Tozer, Mr. James",32.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Triggs, Mr. Robert",41.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,True
+"Turley, Mr. Richard",37.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"van der Brugge, Mr. Wessel Adrianus",42.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Veal, Mr. Arthur",36.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Vear, Mr. Henry",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Vear, Mr. W.",32.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Ward, Mr. Arthur",24.0,Male,Crew,Engineering,Junior Assistant Fourth Engineer,Not applicable,False
+"Ward, Mr. Joseph",31.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"Wardner, Mr. Frederick Albert",39.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Wateridge, Mr. Edward Lewis",25.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Watson, Mr. W.",27.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Webb, Mr. Samuel Francis",28.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Webber, Mr. Francis Albert",31.0,Male,Crew,Engineering,Leading Fireman,Not applicable,False
+"White, Mr. Alfred",32.0,Male,Crew,Engineering,Greaser,Not applicable,True
+"White, Mr. Frank Leonard",27.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"White, Mr. William George",23.0,Male,Crew,Engineering,Trimmer,Not applicable,True
+"Williams, Mr. Samuel Solomon",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Wilson, Mr. Bertie",28.0,Male,Crew,Engineering,Senior Assistant Second Engineer,Not applicable,False
+"Wilton, Mr. William",45.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Witcher, Mr. Alfred",40.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Witt, Mr. F.",,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Witt, Mr. Henry Dennis",40.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Woodford, Mr. Frederick",41.0,Male,Crew,Engineering,Greaser,Not applicable,False
+"Wood, Mr. Henry",31.0,Male,Crew,Engineering,Trimmer,Not applicable,False
+"Wyeth, Mr. James Robert",26.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Young, Mr. Francis James",30.0,Male,Crew,Engineering,Fireman/Stoker,Not applicable,False
+"Abbott, Mr. Ernest Owen",21.0,Male,Crew,Victualling,First Class Lounge Pantry Steward,Not applicable,False
+"Ahier, Mr. Percy Snowden",20.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Akerman, Mr. Albert",28.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Akerman, Mr. Joseph Francis",35.0,Male,Crew,Victualling,Assistant Pantry Steward,Not applicable,False
+"Allan, Mr. Robert Spencer",36.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Allen, Mr. George",26.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Allen, Mr. Frederick",17.0,Male,Crew,Victualling,Lift Steward,Not applicable,False
+"Allsop, Mr. Frank Richard",41.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Anderson, Mr. Walter J.",48.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Andrews, Mr. Charles Edward",19.0,Male,Crew,Victualling,Assistant Second Class Saloon Steward,Not applicable,True
+"Ashcroft, Mr. Austin Aloysius",26.0,Male,Crew,Victualling,Clerk,Not applicable,False
+"Ashe, Mr. Henry Wellesley",32.0,Male,Crew,Victualling,Glory Hole Steward,Not applicable,False
+"Ayling, Mr. George Edwin",22.0,Male,Crew,Victualling,Assistant Vegetable Cook,Not applicable,False
+"Back, Mr. Charles Frederick",32.0,Male,Crew,Victualling,Assistant Lounge Steward,Not applicable,False
+"Baggott, Mr. Allen Marden",28.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,True
+"Bagley, Mr. Edward Ernest",31.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Bailey, Mr. George Francis",36.0,Male,Crew,Victualling,Second Class Saloon Steward,Not applicable,False
+"Ball, Mr. Percy",19.0,Male,Crew,Victualling,First Class Plate Steward,Not applicable,True
+"Barker, Mr. Albert Vale",19.0,Male,Crew,Victualling,Assistant Baker,Not applicable,False
+"Barker, Mr. Ernest T.",37.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Barker, Mr. Reginald Lomond",40.0,Male,Crew,Victualling,Assistant Purser,Not applicable,False
+"Barlow, Mr. George",36.0,Male,Crew,Victualling,Second Class Bedroom Steward,Not applicable,False
+"Barnes, Mr. Frederick",37.0,Male,Crew,Victualling,Assistant Baker,Not applicable,False
+"Barratt, Mr. Arthur",15.0,Male,Crew,Victualling,Bell Boy,Not applicable,False
+"Barringer, Mr. Arthur William",33.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Barrow, Mr. Harry",35.0,Male,Crew,Victualling,Assistant Butcher,Not applicable,False
+"Barrows, Mr. William",32.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Barton, Mr. Sidney John",25.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Baxter, Mr. Harry Ross",51.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Baxter, Mr. Thomas Ferguson",48.0,Male,Crew,Victualling,Linen Steward,Not applicable,False
+"Bedford, Mr. William Barnet",31.0,Male,Crew,Victualling,Assistant Roast Cook,Not applicable,False
+"Beedem, Mr. George Arthur",34.0,Male,Crew,Victualling,Second Class Bedroom Steward,Not applicable,False
+"Beere, Mr. William",19.0,Male,Crew,Victualling,Kitchen Porter,Not applicable,False
+"Benham, Mr. Frederick",29.0,Male,Crew,Victualling,Second Class Saloon Steward,Not applicable,False
+"Bennett, Mrs. Mabel",30.0,Female,Crew,Victualling,First Class Stewardess,Not applicable,True
+"Bessant, Mr. Edward William",31.0,Male,Crew,Victualling,Baggage Steward,Not applicable,False
+"Best, Mr. Alfred",38.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Blake, Mr. Seaton",26.0,Male,Crew,Victualling,Mess Steward,Not applicable,False
+"Bishop, Mr. Walter Alexander",34.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Bliss, Mrs. Emma (née Junod)",45.0,Female,Crew,Victualling,First Class Stewardess,Not applicable,True
+"Bochatay, Mr. Alexis Joseph",30.0,Male,Crew,Victualling,Assistant Chef,Not applicable,False
+"Bogie, Mr. Norman Leslie",29.0,Male,Crew,Victualling,Second Class Bedroom Steward,Not applicable,False
+"Bond, Mr. William John",40.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Boothby, Mr. W.",36.0,Male,Crew,Victualling,Second Class Bedroom Steward,Not applicable,False
+"Boston, Mr. William John",30.0,Male,Crew,Victualling,Assistant Deck Steward,Not applicable,False
+"Boughton, Mr. B.",24.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Boyd, Mr. John",35.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Boyes, Mr. John Henry",36.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Bradshaw, Mr. J.A.",43.0,Male,Crew,Victualling,First Class Plate Steward,Not applicable,False
+"Brewster, Mr. George H.",48.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Bride, Mr. Harold Sydney",22.0,Male,Crew,Victualling,Assistant Telegraphist,Not applicable,True
+"Bristow, Mr. Robert Charles",31.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Bristow, Mr. Harry",33.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Brookman, Mr, John",27.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Broom, Mr. H.",33.0,Male,Crew,Victualling,Bath Steward,Not applicable,False
+"Broome, Mr. Athol Frederick",30.0,Male,Crew,Victualling,Verandah Steward,Not applicable,False
+"Brown, Mr. Edward",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Brown, Mr. Walter James",28.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Buckley, Mr. H.E.",34.0,Male,Crew,Victualling,Assistant Vegetable Cook,Not applicable,False
+"Bull, Mr. W.",30.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Bulley, Mr. Henry Ashburnham",21.0,Male,Crew,Victualling,Boots,Not applicable,False
+"Bunnell, Mr. Wilfred",20.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Burgess, Mr. Charles Reginald",18.0,Male,Crew,Victualling,Extra Third Baker,Not applicable,True
+"Burke, Mr. Richard Edward",30.0,Male,Crew,Victualling,Lounge Steward,Not applicable,False
+"Burke, Mr. William",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Burr, Mr. Ewart",29.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Burrage, Mr. Alfred",20.0,Male,Crew,Victualling,Plate Steward,Not applicable,True
+"Butt, Mr. Robert Henry",22.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Butterworth, Mr. John",23.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Byrne, Mr. J.E.",31.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Campbell, Mr. Donald S.",25.0,Male,Crew,Victualling,Third Class Clerk,Not applicable,False
+"Carney, Mr. William",31.0,Male,Crew,Victualling,Lift Steward,Not applicable,False
+"Cartwright, Mr. James Edward",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Casswill, Mr. Charles",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Caton, Miss Annie",50.0,Female,Crew,Victualling,Turkish Bath Stewardess,Not applicable,True
+"Caunt, Mr. William Ewart",27.0,Male,Crew,Victualling,Grill Cook,Not applicable,False
+"Cave, Mr. Herbert",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Cecil, Mr. C.",20.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Chapman, Mr. Joseph Charles",32.0,Male,Crew,Victualling,Boots,Not applicable,True
+"Charman, Mr. John",25.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Cheverton, Mr. William Edward",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Chitty, Mr. Archibald George",28.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Chitty, Mr. George Henry",52.0,Male,Crew,Victualling,Baker,Not applicable,False
+"Christmas, Mr. H.",33.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Coleman, Mr. Albert Edward",28.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Coleman, Mr. John",57.0,Male,Crew,Victualling,Mess Steward,Not applicable,False
+"Colgan, Mr. E. Joseph",33.0,Male,Crew,Victualling,Scullion,Not applicable,True
+"Collins, Mr. John",17.0,Male,Crew,Victualling,Scullion,Not applicable,True
+"Conway, Mr. P.W.",25.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Cook, Mr. George",42.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Coombs, Mr. Augustus Charles",38.0,Male,Crew,Victualling,Cook,Not applicable,False
+"Corben, Mr. Ernest Theodore",27.0,Male,Crew,Victualling,Assistant Printer Steward,Not applicable,False
+"Cox, Mr. William Denton",29.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Crafter, Mr. Frederick",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Crawford, Mr. Alfred",36.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,True
+"Crisp, Mr. Albert Hector",35.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Crispin, Mr. William",32.0,Male,Crew,Victualling,Glory Hole Steward,Not applicable,False
+"Crosby, Mr. J. Bertram",42.0,Male,Crew,Victualling,Turkish Bath Attendant,Not applicable,False
+"Crowe, Mr. George Frederick",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Crumplin, Mr. Charles",35.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Cullen, Mr. Charles",45.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,True
+"Cunningham, Mr. Andrew",35.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,True
+"Daniels, Mr. Sidney Edward",18.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Dashwood, Mr. William George",19.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Davies, Mr. Gordon Raleigh",33.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Davies, Mr. John James",27.0,Male,Crew,Victualling,Extra 2nd Baker,Not applicable,False
+"Davies, Mr. Robert J.",26.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Dean, Mr. George H.",19.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Deeble, Mr. Alfred Arnold",29.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Derrett, Mr. Albert",26.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Deslands, Mr. Percival Stainer",36.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Dinenage, Mr. James Richard",47.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Dodd, Mr. George Charles",44.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Dolby, Mr. Joseph",36.0,Male,Crew,Victualling,Reception Room Steward,Not applicable,False
+"Donoghue, Mr. Frank",35.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Doughty, Mr. W.",22.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Dunford, Mr. William",41.0,Male,Crew,Victualling,Hospital Steward,Not applicable,False
+"Dyer, Mr. William",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Edbrooke, Mr. F.",24.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Ede, Mr. George B.",22.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Edge, Mr. Frederick William",37.0,Male,Crew,Victualling,Deck Steward,Not applicable,False
+"Edwards, Mr. Clement",38.0,Male,Crew,Victualling,Assistant Pantryman Steward,Not applicable,False
+"Egg, Mr. W.H.",34.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Ellis, Mr. John Bertram",30.0,Male,Crew,Victualling,Assistant Vegetable Cook,Not applicable,True
+"Ennis, Mr. Walter",35.0,Male,Crew,Victualling,Turkish Bath Attendant,Not applicable,False
+"Etches, Mr. Henry Samuel",41.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,True
+"Evans, Mr. George Richard",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Fairall, Mr. Henry",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Farrenden, Mr. Ernest John",32.0,Male,Crew,Victualling,Confectioner,Not applicable,False
+"Faulkner, Mr. William Stephen",37.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,True
+"Fellowes, Mr. Alfred J.",29.0,Male,Crew,Victualling,Boots,Not applicable,False
+"Feltham, Mr. G.",36.0,Male,Crew,Victualling,Vienna Baker,Not applicable,False
+"Finch, Mr. Harry",18.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Fletcher, Mr. Peter W.",26.0,Male,Crew,Victualling,Bugler Steward,Not applicable,False
+"Foley, Mr. William C.",26.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Ford, Mr. Ernest",32.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Ford, Mr. F.",37.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Fox, Mr. William Thomas",27.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Franklin, Mr. Alan Vincent",29.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Freeman, Mr. Ernest Edward Samuel",43.0,Male,Crew,Victualling,Deck Steward,Not applicable,False
+"Geddes, Mr. Richard Charles",31.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Gibbons, Mr. Jacob William",36.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Giles, Mr. John Robert",30.0,Male,Crew,Victualling,Baker,Not applicable,False
+"Gill, Mr. Joseph Stanley",34.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Gill, Mr. Patrick",38.0,Male,Crew,Victualling,Ship's Cook,Not applicable,False
+"Gold, Mrs. Katherine (née Cook)",42.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Gollop, Mr. F.",28.0,Male,Crew,Victualling,Assistant Passage Cook,Not applicable,False
+"Goshawk, Mr. Arthur James",31.0,Male,Crew,Victualling,Third Saloon Steward,Not applicable,False
+"Gregson, Miss Mary",44.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Gunn, Mr. Joseph Alfred",28.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Guy, Mr. Edward John",28.0,Male,Crew,Victualling,Boots,Not applicable,True
+"Halford, Mr. Richard",22.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Hall, Mr. F.A.J.",38.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Hamblyn, Mr. Ernest William",41.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Hamilton, Mr. Ernest",25.0,Male,Crew,Victualling,Assistant Smoke Room Steward,Not applicable,False
+"Harding, Mr. A.",20.0,Male,Crew,Victualling,Assistant Pantry Steward,Not applicable,False
+"Hardwick, Mr. Reginald",21.0,Male,Crew,Victualling,Kitchen Porter,Not applicable,True
+"Hardy, Mr. John T.",37.0,Male,Crew,Victualling,Chief 2nd Class Steward,Not applicable,True
+"Harris, Mr. Charles William",19.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Harris, Mr. Clifford Henry",16.0,Male,Crew,Victualling,Bell Boy,Not applicable,False
+"Harris, Mr. Edward",18.0,Male,Crew,Victualling,Assistant Pantryman Steward,Not applicable,False
+"Harrison, Mr. Aragon D.",40.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Hart, Mr. John Edward",31.0,Male,Crew,Victualling,Third Class Steward,Not applicable,True
+"Hartnell, Mr. Frederick",21.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Hatch, Mr. Hugh",22.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Hawkesworth, Mr. James",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Hawkesworth, Mr. William Walter",38.0,Male,Crew,Victualling,Deck Steward,Not applicable,False
+"Hayter, Mr. Arthur",44.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Heinen, Mr. Joseph",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Hendy, Mr. Edward Martin",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Hensford, Mr. Herbert George",29.0,Male,Crew,Victualling,Butcher,Not applicable,False
+"Hewett, Mr. Thomas",37.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Hill, Mr. H.P.",36.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Hill, Mr. James Colston",38.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Hinckley, Mr. George",35.0,Male,Crew,Victualling,Bath Steward,Not applicable,False
+"Hine, Mr. William Edward",36.0,Male,Crew,Victualling,Baker,Not applicable,False
+"Hiscock, Mr. S.",22.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Hoare, Mr. Leonard James",21.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Hogg, Mr. Charles William",37.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Hogue, Mr. E.",22.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Holland, Mr. Thomas",28.0,Male,Crew,Victualling,Reception Steward,Not applicable,False
+"Holloway, Mr. Sidney",20.0,Male,Crew,Victualling,Clothes Presser,Not applicable,False
+"Hopkins, Mr. F.",16.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"House, Mr. William",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Howell, Mr. Arthur Albert",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Hughes, Mr. William Thomas",33.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Humby, Mr. Frederick",16.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Humphreys, Mr. Thomas Humphrey",31.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Hutchinson, Mr. James",29.0,Male,Crew,Victualling,Vegetable Cook,Not applicable,False
+"Hyland, Mr. Leo James",19.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Ide, Mr. Harry John",32.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Ingrouille, Mr. Henry",21.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Ings, Mr. William Ernest",20.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Jackson, Mr. Cecil",29.0,Male,Crew,Victualling,Boots,Not applicable,False
+"Janaway, Mr. William Frank",35.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Jenner, Mr. Harry",41.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Jensen, Mr. Charles Valdemar",25.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Jessop, Miss Violet Constance",24.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Johnson Thorne, Mr. Harry",25.0,Male,Crew,Victualling,Assistant Ship's Cook,Not applicable,False
+"Johnston, Mr. James",41.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Jones, Mr. Albert",17.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Jones, Mr. Arthur Ernest",38.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Jones, Mr. H.",29.0,Male,Crew,Victualling,Roast Cook,Not applicable,False
+"Jones, Mr. Reginald V.",20.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Joughin, Mr. Charles John",32.0,Male,Crew,Victualling,Chief Baker,Not applicable,True
+"Keen, Mr. Percy Edward",28.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Kelland, Mr. Thomas",21.0,Male,Crew,Victualling,Library Steward,Not applicable,False
+"Kennell, Mr. Charles",30.0,Male,Crew,Victualling,Hebrew Cook,Not applicable,False
+"Kerley, Mr. William Thomas",28.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Ketchley, Mr. Henry",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Kieran, Mr. James W.",32.0,Male,Crew,Victualling,Chief 3rd Class Steward,Not applicable,False
+"Kieran, Mr. Michael",31.0,Male,Crew,Victualling,Storekeeper,Not applicable,False
+"King, Mr. Alfred",18.0,Male,Crew,Victualling,Lift Steward,Not applicable,False
+"King, Mr. Ernest Waldron",28.0,Male,Crew,Victualling,Clerk,Not applicable,False
+"King, Mr. G.",20.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Kingscote, Mr. William Ford",43.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Kirkaldy, Mr. Thomas",37.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Kitching, Mr. Arthur Alfred",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Klein, Mr. Herbert",33.0,Male,Crew,Victualling,Second Class Barber,Not applicable,False
+"Knight, Mr. George",44.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Knight, Mr. Leonard George",21.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Lacey, Mr. Bert W.",21.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Lake, Mr. William",35.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Lane, Mr. Albert Edward",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Latimer, Mr. Andrew L.",55.0,Male,Crew,Victualling,Chief First Class Steward,Not applicable,False
+"Lavington, Miss Bessie",39.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Lawrence, Mr. Arthur",25.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Leader, Mr. Archie",22.0,Male,Crew,Victualling,Confectioner,Not applicable,False
+"Leather, Mrs Elizabeth May",41.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Lefebvre, Mr. Paul Georges",35.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Leonard, Mr. Matthew",26.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Levett, Mr. George Alfred",21.0,Male,Crew,Victualling,Assistant Pantryman,Not applicable,False
+"Lewis, Mr. Arthur Ernest",27.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Light, Mr. C.",23.0,Male,Crew,Victualling,Plate Steward,Not applicable,False
+"Littlejohn, Mr. Alexander James",40.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Lloyd, Mr. Humphrey",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Locke, Mr. A.",33.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Longmuir, Mr. John Dickson",19.0,Male,Crew,Victualling,Assistant Pantry Steward,Not applicable,False
+"Lovell, Mr. John",38.0,Male,Crew,Victualling,Grill Cook,Not applicable,False
+"Lucas, Mr. William",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Lydiatt, Mr. Charles",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Mabey, Mr. J.",23.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Mackay, Mr. Charles Donald",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Mackie, Mr. George William",34.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Major, Mr. Thomas Edgar",35.0,Male,Crew,Victualling,Bath Steward,Not applicable,False
+"Mantle, Mr. Roland Frederick",36.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Marks, Mr. J.",26.0,Male,Crew,Victualling,Assistant Pantryman Steward,Not applicable,False
+"Marriott, Mr. J.W.",20.0,Male,Crew,Victualling,Assistant Pantryman Steward,Not applicable,False
+"Marsden, Miss Evelyn",28.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Martin, Mrs. Annie",33.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Martin, Mr. F.",29.0,Male,Crew,Victualling,Scullion,Not applicable,True
+"Maynard, Mr. Isaac Hiram",31.0,Male,Crew,Victualling,Entre Cook,Not applicable,True
+"Maytum, Mr. Alfred",52.0,Male,Crew,Victualling,Chief Butcher,Not applicable,False
+"McCarthy, Mr. Frederick",36.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"McCawley, Mr. Thomas W.",36.0,Male,Crew,Victualling,Gymnasium Steward,Not applicable,False
+"McElroy, Mr. Hugh Walter",37.0,Male,Crew,Victualling,Purser,Not applicable,False
+"McGrady, Mr. James",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"McLaren, Mrs.",40.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"McMicken, Mr. Arthur",23.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"McMicken, Mr. Benjamin Tucker",21.0,Male,Crew,Victualling,Second Pantry Steward,Not applicable,False
+"McMullin, Mr. James",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"McMurray, Mr. William Ernest",43.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Mellor, Mr. Arthur",34.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Middleton, Mr. M.V.",24.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Mills, Mr. Christopher",51.0,Male,Crew,Victualling,Butcher,Not applicable,True
+"Mishellamy, Mr. Abraham",52.0,Male,Crew,Victualling,Printer Steward,Not applicable,False
+"Moore, Mr. Alfred Ernest",39.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Morgan (Bird), Mr. Charles Frederick",42.0,Male,Crew,Victualling,Assistant Storekeeper,Not applicable,False
+"Morris, Mr. Frank Herbert",28.0,Male,Crew,Victualling,Bathroom Steward,Not applicable,True
+"Moss, Mr. William",34.0,Male,Crew,Victualling,First Saloon Steward,Not applicable,False
+"Mullen, Mr. Thomas A.",20.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Neal, Mr. Henry",25.0,Male,Crew,Victualling,Baker,Not applicable,True
+"Nicholls, Mr. Sidney",39.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Nichols, Mr. A. D.",34.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Nichols, Mr. Walter Henry",35.0,Male,Crew,Victualling,Steward,Not applicable,True
+"O'Connor, Mr. Thomas Peter",39.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Olive, Mr. Ernest Roskelly",28.0,Male,Crew,Victualling,Clothes Presser Steward,Not applicable,False
+"Orpet, Mr. Walter Hayward",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Orr, Mr. J.",40.0,Male,Crew,Victualling,Assistant Vegetable Cook,Not applicable,False
+"Osbourne, Mr. William Edward",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Owen, Mr. Lewis",49.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Pacey, Mr. Reginald Ivan",17.0,Male,Crew,Victualling,Lift Steward,Not applicable,False
+"Paintin, Mr. James Arthur",29.0,Male,Crew,Victualling,Captain's Steward,Not applicable,False
+"Parsons, Mr. Edward",35.0,Male,Crew,Victualling,Chief Storekeeper,Not applicable,False
+"Parsons, Mr. Richard",18.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Pearce, Mr. Alfred Ernest",24.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Pearcey, Mr. Albert Victor",32.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Pennal, Mr. Thomas Francis",33.0,Male,Crew,Victualling,Bath Steward,Not applicable,False
+"Penny, Mr. William Far",30.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Penrose, Mr. John Poole",49.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Perkins, Mr. Laurence Alexander",22.0,Male,Crew,Victualling,Telephone Steward,Not applicable,False
+"Perrin, Mr. William Charles",39.0,Male,Crew,Victualling,Boots Steward,Not applicable,False
+"Perriton, Mr. Hubert Prouse",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Petty, Mr. Edwin Henry",25.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Pfropper, Mr. Richard",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Phillimore, Mr. Harold Charles William",23.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Phillips, Mr. John George ""Jack""",25.0,Male,Crew,Victualling,Telegraphist,Not applicable,False
+"Platt, Mr. W.",18.0,Male,Crew,Victualling,Scullion,Not applicable,False
+"Pook, Mr. P.",34.0,Male,Crew,Victualling,Assistant Pantry,Not applicable,False
+"Port, Mr. Frank",32.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Porteus, Mr. Thomas",32.0,Male,Crew,Victualling,Butcher,Not applicable,False
+"Prentice, Mr. Frank Winnold",22.0,Male,Crew,Victualling,Storekeeper,Not applicable,True
+"Prichard, Mrs. Alice",33.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Prideaux, Mr. John Arthur ""Jack""",23.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Prior, Mr. Harold John",21.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Proctor, Mr. Charles",40.0,Male,Crew,Victualling,Chef,Not applicable,False
+"Pryce, Mr. Charles William",22.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Pugh, Mr. Alfred",20.0,Male,Crew,Victualling,Steward,Not applicable,True
+"Puzey, Mr. John E.",35.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Randall, Mr. Frank Henry",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Ransom, Mr. James",33.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Rattonbury, Mr. William Henry",36.0,Male,Crew,Victualling,Assistant Boots Steward,Not applicable,False
+"Ray, Mr. Frederick Dent",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Reed, Mr. Charles S.",43.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Revell, Mr. William",31.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Rice, Mr. John Reginald",25.0,Male,Crew,Victualling,Clerk,Not applicable,False
+"Ricks, Mr. Cyril G.",23.0,Male,Crew,Victualling,Storekeeper,Not applicable,False
+"Ridout, Mr. W.",29.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Rimmer, Mr. Gilbert",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Roberton, Mr. George Edward",19.0,Male,Crew,Victualling,Assistant Saloon Steward,Not applicable,False
+"Roberts, Mr. Frank John",36.0,Male,Crew,Victualling,Third Butcher,Not applicable,False
+"Roberts, Mr. Hugh H.",40.0,Male,Crew,Victualling,Bedroom Steward,Not applicable,False
+"Roberts, Mrs. Mary Kezziah (née Humphrys)",41.0,Female,Crew,Victualling,Saloon Steward,Not applicable,True
+"Robinson, Mrs. Annie",40.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Robinson, Mr. James William",30.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Rogers, Mr. Edward James William",32.0,Male,Crew,Victualling,Assistant Storekeeper,Not applicable,False
+"Rogers, Mr. Michael",27.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Ross, Mr. Horace Leopold",36.0,Male,Crew,Victualling,Scullion,Not applicable,True
+"Rowe, Mr. Edward M.",31.0,Male,Crew,Victualling,Saloon 1st Class Steward,Not applicable,False
+"Rule, Mr. Samuel James",58.0,Male,Crew,Victualling,Bathroom Steward,Not applicable,True
+"Russell, Mr. Boysie Richard",17.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Ryan, Mr. Tom",27.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Ryerson, Mr. William Edwy",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Samuel, Mr. Owen Wilmore",41.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Saunders, Mr. D. E.",26.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Savage, Mr. Charles J.",23.0,Male,Crew,Victualling,Saloon Steward,Not applicable,True
+"Scott, Mr. John",21.0,Male,Crew,Victualling,Boots Steward,Not applicable,False
+"Scovell, Mr. Robert",42.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Sedunary, Mr. Sidney Francis",25.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Shea, Mr. John",39.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Slight, Mr. Harry John",35.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Sloan, Miss Mary",28.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Slocombe, Mrs Maud (née Waldon)",30.0,Female,Crew,Victualling,Turkish Bath Stewardess,Not applicable,True
+"Smillie, Mr. John",38.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Smith, Mr. Charles Edward",38.0,Male,Crew,Victualling,Bed Room Steward,Not applicable,False
+"Smith, Mr. F",20.0,Male,Crew,Victualling,Assistant Pantryman Steward,Not applicable,False
+"Smith, Miss Katherine E.",42.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Snape, Mrs Lucy Violet",22.0,Female,Crew,Victualling,Stewardess,Not applicable,False
+"Stap, Miss Sarah Agnes",47.0,Female,Crew,Victualling,Stewardess,Not applicable,True
+"Stone, Mr. Edmond J.",26.0,Male,Crew,Victualling,First class Bedroom Steward,Not applicable,False
+"Stone, Mr. Edward Thomas",30.0,Male,Crew,Victualling,First class Bedroom Steward,Not applicable,False
+"Talbot, Mr. George Frederick Charles.",27.0,Male,Crew,Victualling,Steward,Not applicable,False
+"Taylor, Mr. William",21.0,Male,Crew,Victualling,Boots Steward,Not applicable,False
+"Teuton, Mr. Thomas Moore",32.0,Male,Crew,Victualling,Saloon Steward,Not applicable,False
+"Toshack, Mr. James A.",30.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Turner, Mr. Leopold[25]",28.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Veal, Mr. Thomas H.E.",38.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Wake, Mr. T.",32.0,Male,Crew,Victualling,Assistant Baker,Not applicable,False
+"Wallis, Mrs Catherine Jane",35.0,Female,Crew,Victualling,Second Class Matron,Not applicable,False
+"Walpole, Mr. James",48.0,Male,Crew,Victualling,Chief Pantryman,Not applicable,False
+"Walsh, Miss Catherine",32.0,Female,Crew,Victualling,Stewardess,Not applicable,False
+"Ward, Mr. Edward",34.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Ward, Mr. Percy T.",38.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Ward, Mr. William",36.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,True
+"Wareham, Mr. Robert Arthur",36.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Warwick, Mr. Thomas",35.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Weatherston, Mr. Thomas",24.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Weikman, Mr. Augustus Henry",51.0,Male,Crew,Victualling,First Class Barber,Not applicable,True
+"White, Mr. Arthur",37.0,Male,Crew,Victualling,Third Class Barber,Not applicable,False
+"White, Mr Edward Joseph",27.0,Male,Crew,Victualling,Glory Hole Steward,Not applicable,False
+"White, Mr. L.",32.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Whiteley, Mr. Thomas",18.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,True
+"Whitford, Mr. A.H.",37.0,Male,Crew,Victualling,Second Class Saloon Steward,Not applicable,False
+"Whittman, Mr. Henry",34.0,Male,Crew,Victualling,First Class Bedroom Steward,Not applicable,False
+"Widgery, Mr. James G.",37.0,Male,Crew,Victualling,Second Class Bath Steward,Not applicable,True
+"Wildebank, Mr. Alfred E.",39.0,Male,Crew,Victualling,Assistant Cook,Not applicable,True
+"Williams, Mr. Walter J.",28.0,Male,Crew,Victualling,Second Class Saloon Steward,Not applicable,True
+"Willis, Mr. William",66.0,Male,Crew,Victualling,Third Class Steward,Not applicable,False
+"Wiltshire, Mr. W.",33.0,Male,Crew,Victualling,Assistant Butcher,Not applicable,False
+"Witter, Mr. James W.C.",31.0,Male,Crew,Victualling,Second Class Smoking Room Steward,Not applicable,True
+"Wood, Mr. J.T.",40.0,Male,Crew,Victualling,Second Class Saloon Steward,Not applicable,False
+"Wormald, Mr. Frederick William",36.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,False
+"Wrapson, Mr. Frederick B.",19.0,Male,Crew,Victualling,Assistant Pantryman,Not applicable,False
+"Wright, Mr. Frederick",24.0,Male,Crew,Victualling,Squash Court Steward,Not applicable,False
+"Wright, Mr. William",40.0,Male,Crew,Victualling,Glory Hole Steward,Not applicable,True
+"Yearsley, Mr. Harry",38.0,Male,Crew,Victualling,First Class Saloon Steward,Not applicable,True
+"Allaria, Mr. Battista Antonio",30.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Aspeslagh, Mr. Georges",26.0,Male,Crew,Restaurant,Assistant Plateman,Not applicable,False
+"Banfi, Mr. Ugo",24.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Basilico, Mr. Giovanni",27.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Bazzi, Mr. Narciso",33.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Bernardi, Mr. Battista",22.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Bertoldo, Mr. Fioravante Giuseppe",23.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Beux, Mr. David",26.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Bietrix, Mr. George Baptiste",28.0,Male,Crew,Restaurant,Cook,Not applicable,False
+"Blument, Mr. Jean Baptiste",26.0,Male,Crew,Restaurant,Pantryman,Not applicable,False
+"Bochet, Mr. Pierre Giuseppe",43.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Bolhuis, Mr. Hendrik ""Hennie""",21.0,Male,Crew,Restaurant,Larder Cook,Not applicable,False
+"Bowker, Miss Ruth",27.0,Female,Crew,Restaurant,Cashier,Not applicable,True
+"Casali, Mr. Giulio",27.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Chaboisson, Mr. Adrien Finnin",25.0,Male,Crew,Restaurant,Roast Cook,Not applicable,False
+"Cornaire, Mr.  Marcel Raymond André",19.0,Male,Crew,Restaurant,Assistant Roast Cook,Not applicable,False
+"Coutin, Mr. Auguste Louis",28.0,Male,Crew,Restaurant,Entrée Cook,Not applicable,False
+"Crovella, Mr. Luigi",17.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"De Marsico, Mr. Giovanni",20.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Debreucq, Mr. Maurice Emile Victor",22.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Desvernine, Mr. Louis Gabriel",20.0,Male,Crew,Restaurant,Assistant Pastry Cook,Not applicable,False
+"Donati, Mr. Italo Francesco",17.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Dornier, Mr. Louis Auguste",20.0,Male,Crew,Restaurant,Assistant Fish Cook,Not applicable,False
+"Fey, Mr. Carlo",30.0,Male,Crew,Restaurant,Scullion,Not applicable,False
+"Gatti, Mr. Gaspare Antonio Pietro ""Luigi""",37.0,Male,Crew,Restaurant,Restaurant Manager,Not applicable,False
+"Gilardino, Mr. Vincenzo Pio",31.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Grosclaude, Mr. Gérald",24.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Jaillet, Mr. Henri Marie",28.0,Male,Crew,Restaurant,Pastry Cook,Not applicable,False
+"Janin, Mr. Claude Marie",29.0,Male,Crew,Restaurant,Soup Cook,Not applicable,False
+"Jeffery, Mr. William Alfred",28.0,Male,Crew,Restaurant,Controller,Not applicable,False
+"Jouannault, Mr. Georges Jules",24.0,Male,Crew,Restaurant,Assistant Sauce Cook,Not applicable,False
+"Martin, Miss Margaret Edwina ""Mabel""",20.0,Female,Crew,Restaurant,Cashier,Not applicable,True
+"Mattmann, Mr. Adolf",20.0,Male,Crew,Restaurant,Ice Man,Not applicable,False
+"Maugé, Mr. Paul Achille Maurice Germain",25.0,Male,Crew,Restaurant,Kitchen Clerk,Not applicable,True
+"Monteverdi, Mr. Giovanni",23.0,Male,Crew,Restaurant,Cook,Not applicable,False
+"Monrós, Mr. Joan Xavier",20.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Nannini, Mr. Francesco Luigi",42.0,Male,Crew,Restaurant,Head Waiter,Not applicable,False
+"Pachera, Mr. Jean Baptiste Stanislas",19.0,Male,Crew,Restaurant,Assistant Larder Cook,Not applicable,False
+"Pedrini, Mr. Alessandro",21.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Peracchio, Mr. Alberto",20.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Peracchio, Mr. Sebastiano",17.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Perotti, Mr. Alfonso",20.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Phillips, Mr. Walter John",35.0,Male,Crew,Restaurant,Storekeeper,Not applicable,False
+"Piatti, Mr. Luigi",17.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Piazza, Mr. Pompeo",30.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Poggi, Mr. Emilio",28.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Price, Mr. Ernest",17.0,Male,Crew,Restaurant,Barman,Not applicable,False
+"Ratti, Mr. Enrico",21.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Ricaldone, Mr. Rinaldo Renato",22.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Rigozzi, Mr. Abele",22.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Rotta, Mr. Angelo Mario",23.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Rousseau, Mr. Pierre",49.0,Male,Crew,Restaurant,Chef,Not applicable,False
+"Saccaggi, Mr. Giovanni Giuseppe Emilio",24.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Salussolia, Mr. Giovanni",25.0,Male,Crew,Restaurant,Glass Man,Not applicable,False
+"Sartori, Mr. Lazar",24.0,Male,Crew,Restaurant,Assistant Glass Man,Not applicable,False
+"Scavino, Mr. Candido",42.0,Male,Crew,Restaurant,Carver,Not applicable,False
+"Sesia, Mr. Giacomo",24.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Testoni, Mr. Ercole",23.0,Male,Crew,Restaurant,Assistant Glass Man,Not applicable,False
+"Tietz, Mr. Karl",27.0,Male,Crew,Restaurant,Kitchen Porter,Not applicable,False
+"Turvey, Mr. Charles",16.0,Male,Crew,Restaurant,Page Boy,Not applicable,False
+"Urbini, Mr. Roberto",22.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Valvassori, Mr. Ettore Luigi",35.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Vicat, Mr. Alphonse Jean Eugene",21.0,Male,Crew,Restaurant,Cook,Not applicable,False
+"Villvarlange, Mr. Pierre Léon Gabriel",19.0,Male,Crew,Restaurant,Assistant Soup Cook,Not applicable,False
+"Vine, Mr. H.",18.0,Male,Crew,Restaurant,Assistant Controller,Not applicable,False
+"Vioni, Mr. Roberto",31.0,Male,Crew,Restaurant,Waiter,Not applicable,False
+"Voegelin-Dubach, Mr. Johannes",35.0,Male,Crew,Restaurant,Coffee Maker,Not applicable,False
+"Zanetti, Mr. Minio",20.0,Male,Crew,Restaurant,Assistant Waiter,Not applicable,False
+"Zarracchi, Mr. L.",26.0,Male,Crew,Restaurant,Wine Butler,Not applicable,False
+"Gwinn, Mr. William Logan",37.0,Male,Crew,Postal clerks,Postal clerk,Not applicable,False
+"March, Mr. John Starr",50.0,Male,Crew,Postal clerks,Postal clerk,Not applicable,False
+"Smith, Mr. John Richard ""Jago""",35.0,Male,Crew,Postal clerks,Postal clerk,Not applicable,False
+"Williamson, Mr. James Bertram",35.0,Male,Crew,Postal clerks,Postal clerk,Not applicable,False
+"Woody, Mr. Oscar Scott",41.0,Male,Crew,Postal clerks,Postal clerk,Not applicable,False
+"Andrews, Mr. Thomas",39.0,Male,Crew,Guarantee group,Shipbuilder,First,False
+"Campbell, Mr. William Henry",21.0,Male,Crew,Guarantee group,Joiner,Second,False
+"Chisholm, Mr. Roderick Robert Crispin",40.0,Male,Crew,Guarantee group,Draughtsman,First,False
+"Cunningham, Mr. Alfred Fleming",21.0,Male,Crew,Guarantee group,Fitter,Second,False
+"Frost, Mr. Anthony Wood ""Artie""",37.0,Male,Crew,Guarantee group,Fitter,Second,False
+"Knight, Mr. Robert J.",39.0,Male,Crew,Guarantee group,Fitter,Second,False
+"Parkes, Mr. Francis ""Frank""",21.0,Male,Crew,Guarantee group,Plumber,Second,False
+"Parr, Mr. William Henry Marsh",29.0,Male,Crew,Guarantee group,Electrician,First,False
+"Watson, Mr. Ennis Hastings",18.0,Male,Crew,Guarantee group,Electrician's Apprentice,Second,False
+"Brailey, Theodore Ronald",24.0,Male,Crew,Orchestra,Pianist,Not applicable,False
+"Bricoux, Roger Marie",20.0,Male,Crew,Orchestra,Cellist,Not applicable,False
+"Clarke, John Frederick Preston",30.0,Male,Crew,Orchestra,Bassist,Not applicable,False
+"Hartley, Wallace Henry",33.0,Male,Crew,Orchestra,"Bandmaster, violinist",Not applicable,False
+"Hume, John Law",21.0,Male,Crew,Orchestra,Violinist,Not applicable,False
+"Krins, Georges Alexandre",23.0,Male,Crew,Orchestra,Violinist,Not applicable,False
+"Taylor, Percy Cornelius",32.0,Male,Crew,Orchestra,Cellist,Not applicable,False
+"Woodward, John Wesley",32.0,Male,Crew,Orchestra,Cellist,Not applicable,False
+"Allen, Miss. Elisabeth Walton",29.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Allison, Master. Hudson Trevor",1.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Allison, Miss. Helen Loraine",2.0,Female,Passengers,Not applicable,Not applicable,First,False
+"Allison, Mr. Hudson Joshua Creighton",30.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25.0,Female,Passengers,Not applicable,Not applicable,First,False
+"Anderson, Mr. Harry",48.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Andrews, Miss. Kornelia Theodosia",63.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Andrews, Mr. Thomas Jr",39.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Artagaveytia, Mr. Ramon",71.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Astor, Col. John Jacob",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Aubart, Mme. Leontine Pauline",24.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Barber, Miss. Ellen 'Nellie'",26.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Barkworth, Mr. Algernon Henry Wilson",80.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Baumann, Mr. John D",,Male,Passengers,Not applicable,Not applicable,First,False
+"Baxter, Mr. Quigg Edmond",24.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bazzani, Miss. Albina",32.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Beattie, Mr. Thomson",36.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Beckwith, Mr. Richard Leonard",37.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Behr, Mr. Karl Howell",26.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Bidois, Miss. Rosalie",42.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bird, Miss. Ellen",29.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Birnbaum, Mr. Jakob",25.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Bishop, Mr. Dickinson H",25.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bissette, Miss. Amelia",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Blackwell, Mr. Stephen Weart",45.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Blank, Mr. Henry",40.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Bonnell, Miss. Caroline",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bonnell, Miss. Elizabeth",58.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Borebank, Mr. John James",42.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Bowen, Miss. Grace Scott",45.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bowerman, Miss. Elsie Edith",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bradley, Mr. George ('George Arthur Brayton')",,Male,Passengers,Not applicable,Not applicable,First,True
+"Brady, Mr. John Bertram",41.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Brandeis, Mr. Emil",48.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Brewe, Dr. Arthur Jackson",,Male,Passengers,Not applicable,Not applicable,First,False
+"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",59.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",60.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Burns, Miss. Elizabeth Margaret",41.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Butt, Major. Archibald Willingham",45.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Cairns, Mr. Alexander",,Male,Passengers,Not applicable,Not applicable,First,False
+"Calderhead, Mr. Edward Pennington",42.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",53.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Cardeza, Mr. Thomas Drake Martinez",36.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",58.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Carlsson, Mr. Frans Olof",33.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Carrau, Mr. Francisco M",28.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Carrau, Mr. Jose Pedro",17.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Carter, Master. William Thornton II",11.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Carter, Miss. Lucile Polk",14.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Carter, Mr. William Ernest",36.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Carter, Mrs. William Ernest (Lucile Polk)",36.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Case, Mr. Howard Brown",49.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Cavendish, Mr. Tyrell William",36.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",76.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Chaffee, Mr. Herbert Fuller",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",47.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Chambers, Mr. Norman Campbell",27.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Chaudanson, Miss. Victorine",36.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Cherry, Miss. Gladys",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Chevre, Mr. Paul Romaine",45.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Chibnall, Mrs. (Edith Martha Bowerman)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Clark, Mr. Walter Miller",27.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Clark, Mrs. Walter Miller (Virginia McDowell)",26.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Cleaver, Miss. Alice",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Clifford, Mr. George Quincy",,Male,Passengers,Not applicable,Not applicable,First,False
+"Colley, Mr. Edward Pomeroy",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Compton, Miss. Sara Rebecca",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Compton, Mr. Alexander Taylor Jr",37.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",64.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",55.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Crafton, Mr. John Bertram",,Male,Passengers,Not applicable,Not applicable,First,False
+"Crosby, Capt. Edward Gifford",70.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Crosby, Miss. Harriet R",36.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",64.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Cumings, Mr. John Bradley",39.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Daly, Mr. Peter Denis",51.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Daniel, Mr. Robert Williams",27.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Daniels, Miss. Sarah",33.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Davidson, Mr. Thornton",31.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Davidson, Mrs. Thornton (Orian Hays)",27.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Dick, Mr. Albert Adrian",31.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Dodge, Dr. Washington",53.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Dodge, Master. Washington",4.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Dodge, Mrs. Washington (Ruth Vidaver)",54.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Douglas, Mr. Walter Donald",50.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",27.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",48.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",48.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Duff Gordon, Sir. Cosmo Edmund ('Mr Morgan')",49.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Dulles, Mr. William Crothers",39.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Earnshaw, Mrs. Boulton (Olive Potter)",23.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Endres, Miss. Caroline Louise",38.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Eustis, Miss. Elizabeth Mussey",54.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Evans, Miss. Edith Corse",36.0,Female,Passengers,Not applicable,Not applicable,First,False
+"Farthing, Mr. John",,Male,Passengers,Not applicable,Not applicable,First,False
+"Flegenheim, Mrs. Alfred (Antoinette)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Fleming, Miss. Margaret",,Female,Passengers,Not applicable,Not applicable,First,True
+"Flynn, Mr. John Irwin ('Irving')",36.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Foreman, Mr. Benjamin Laventall",30.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Fortune, Miss. Alice Elizabeth",24.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Fortune, Miss. Ethel Flora",28.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Fortune, Miss. Mabel Helen",23.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Fortune, Mr. Charles Alexander",19.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Fortune, Mr. Mark",64.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Fortune, Mrs. Mark (Mary McDougald)",60.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Francatelli, Miss. Laura Mabel",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Franklin, Mr. Thomas Parham",,Male,Passengers,Not applicable,Not applicable,First,False
+"Frauenthal, Dr. Henry William",50.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Frauenthal, Mr. Isaac Gerald",43.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Frolicher, Miss. Hedwig Margaritha",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Frolicher-Stehli, Mr. Maxmillian",60.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",48.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Fry, Mr. Richard",,Male,Passengers,Not applicable,Not applicable,First,False
+"Futrelle, Mr. Jacques Heath",37.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Gee, Mr. Arthur H",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Geiger, Miss. Amalie",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Gibson, Miss. Dorothy Winifred",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Gibson, Mrs. Leonard (Pauline C Boeson)",45.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Giglio, Mr. Victor",24.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Goldenberg, Mr. Samuel L",49.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Goldschmidt, Mr. George B",71.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Gracie, Col. Archibald IV",53.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Graham, Miss. Margaret Edith",19.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Graham, Mr. George Edward",38.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Graham, Mrs. William Thompson (Edith Junkins)",58.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Greenfield, Mr. William Bertram",23.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Greenfield, Mrs. Leo David (Blanche Strouse)",45.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Guggenheim, Mr. Benjamin",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Harder, Mr. George Achilles",25.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Harder, Mrs. George Achilles (Dorothy Annan)",25.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Harper, Mr. Henry Sleeper",48.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Harrington, Mr. Charles H",,Male,Passengers,Not applicable,Not applicable,First,False
+"Harris, Mr. Henry Birkhardt",45.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Harrison, Mr. William",40.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Hassab, Mr. Hammad",27.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Hawksford, Mr. Walter James",,Male,Passengers,Not applicable,Not applicable,First,True
+"Hays, Miss. Margaret Bechstein",24.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Hays, Mr. Charles Melville",55.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Head, Mr. Christopher",42.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Hilliard, Mr. Herbert Henry",,Male,Passengers,Not applicable,Not applicable,First,False
+"Hipkins, Mr. William Edward",55.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Hippach, Miss. Jean Gertrude",16.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Hogeboom, Mrs. John C (Anna Andrews)",51.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Holverson, Mr. Alexander Oskar",42.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Homer, Mr. Harry ('Mr E Haven')",35.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Hoyt, Mr. Frederick Maxfield",38.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Hoyt, Mr. William Fisher",,Male,Passengers,Not applicable,Not applicable,First,False
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Icard, Miss. Amelie",38.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Isham, Miss. Ann Elizabeth",50.0,Female,Passengers,Not applicable,Not applicable,First,False
+"Ismay, Mr. Joseph Bruce",49.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Jones, Mr. Charles Cresson",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Julian, Mr. Henry Forbes",50.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Keeping, Mr. Edwin",32.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Kent, Mr. Edward Austin",58.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Kenyon, Mr. Frederick R",41.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Kenyon, Mrs. Frederick R (Marion)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Kimball, Mr. Edwin Nelson Jr",42.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",45.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Klaber, Mr. Herman",,Male,Passengers,Not applicable,Not applicable,First,False
+"Kreuchen, Miss. Emilie",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Leader, Dr. Alice (Farnham)",49.0,Female,Passengers,Not applicable,Not applicable,First,True
+"LeRoy, Miss. Bertha",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Lesurer, Mr. Gustave J",35.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Lewy, Mr. Ervin G",,Male,Passengers,Not applicable,Not applicable,First,False
+"Lindeberg-Lind, Mr. Erik Gustaf ('Mr Edward Lingrey')",42.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",55.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Lines, Miss. Mary Conover",16.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",51.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Long, Mr. Milton Clyde",29.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Longley, Miss. Gretchen Fiske",21.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Loring, Mr. Joseph Holland",30.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Lurette, Miss. Elise",58.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Madill, Miss. Georgette Alexandra",15.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Maguire, Mr. John Edward",30.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Maioni, Miss. Roberta",16.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Marechal, Mr. Pierre",,Male,Passengers,Not applicable,Not applicable,First,True
+"Marvin, Mr. Daniel Warner",19.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",18.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Mayne, Mlle. Berthe Antonine ('Mrs de Villiers')",24.0,Female,Passengers,Not applicable,Not applicable,First,True
+"McCaffry, Mr. Thomas Francis",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"McCarthy, Mr. Timothy J",54.0,Male,Passengers,Not applicable,Not applicable,First,False
+"McGough, Mr. James Robert",36.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Meyer, Mr. Edgar Joseph",28.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Millet, Mr. Francis Davis",65.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Minahan, Dr. William Edward",44.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Minahan, Miss. Daisy E",33.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",37.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Mock, Mr. Philipp Edmund",30.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Molson, Mr. Harry Markland",55.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Moore, Mr. Clarence Bloomfield",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Natsch, Mr. Charles H",37.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Newell, Miss. Madeleine",31.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Newell, Miss. Marjorie",23.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Newell, Mr. Arthur Webster",58.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Newsom, Miss. Helen Monypeny",19.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Nicholson, Mr. Arthur Ernest",64.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Oliva y Ocana, Dona. Fermina",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Omont, Mr. Alfred Fernand",,Male,Passengers,Not applicable,Not applicable,First,True
+"Ostby, Miss. Helene Ragnhild",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Ostby, Mr. Engelhart Cornelius",65.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Ovies y Rodriguez, Mr. Servando",28.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Partner, Mr. Austen",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Payne, Mr. Vivian Ponsonby",23.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Pears, Mr. Thomas Clinton",29.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Pears, Mrs. Thomas (Edith Wearne)",22.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Penasco y Castellana, Mr. Victor de Satode",18.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Perreault, Miss. Anne",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Peuchen, Major. Arthur Godfrey",52.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Porter, Mr. Walter Chamberlain",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Reuchlin, Jonkheer. John George",38.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Rheims, Mr. George Alexander Lucien",,Male,Passengers,Not applicable,Not applicable,First,True
+"Ringhini, Mr. Sante",22.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Robbins, Mr. Victor",,Male,Passengers,Not applicable,Not applicable,First,False
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Roebling, Mr. Washington Augustus II",31.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Romaine, Mr. Charles Hallace ('Mr C Rolmane')",45.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Rood, Mr. Hugh Roscoe",,Male,Passengers,Not applicable,Not applicable,First,False
+"Rosenbaum, Miss. Edith Louise",33.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Rosenshine, Mr. George ('Mr George Thorne')",46.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Ross, Mr. John Hugo",36.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Rothschild, Mr. Martin",55.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Rowe, Mr. Alfred G",33.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Ryerson, Master. John Borie",13.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Ryerson, Miss. Emily Borie",18.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Ryerson, Miss. Susan Parker 'Suzette'",21.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Ryerson, Mr. Arthur Larned",61.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",48.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Saalfeld, Mr. Adolphe",,Male,Passengers,Not applicable,Not applicable,First,True
+"Sagesser, Mlle. Emma",24.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Salomon, Mr. Abraham L",,Male,Passengers,Not applicable,Not applicable,First,True
+"Schabert, Mrs. Paul (Emma Mock)",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Serepeca, Miss. Augusta",30.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Seward, Mr. Frederic Kimber",34.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Shutes, Miss. Elizabeth W",40.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Silverthorne, Mr. Spencer Victor",35.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Silvey, Mr. William Baird",50.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Silvey, Mrs. William Baird (Alice Munger)",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Simonius-Blumer, Col. Oberst Alfons",56.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Sloper, Mr. William Thompson",28.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Smart, Mr. John Montgomery",56.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Smith, Mr. James Clinch",56.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Smith, Mr. Lucien Philip",24.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Smith, Mr. Richard William",,Male,Passengers,Not applicable,Not applicable,First,False
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",18.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Snyder, Mr. John Pillsbury",24.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",23.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Spedden, Master. Robert Douglas",6.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Spedden, Mr. Frederic Oakley",45.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Spencer, Mr. William Augustus",57.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Spencer, Mrs. William Augustus (Marie Eugenie)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Stahelin-Maeglin, Dr. Max",32.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Stead, Mr. William Thomas",62.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Stengel, Mr. Charles Emil Henry",54.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",43.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Stewart, Mr. Albert A",,Male,Passengers,Not applicable,Not applicable,First,False
+"Stone, Mrs. George Nelson (Martha Evelyn)",62.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Straus, Mr. Isidor",67.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",63.0,Female,Passengers,Not applicable,Not applicable,First,False
+"Sutton, Mr. Frederick",61.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Taussig, Miss. Ruth",18.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Taussig, Mr. Emil",52.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Taylor, Mr. Elmer Zebley",48.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,Female,Passengers,Not applicable,Not applicable,First,True
+"Thayer, Mr. John Borland",49.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Thayer, Mr. John Borland Jr",17.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Thorne, Mrs. Gertrude Maybelle",,Female,Passengers,Not applicable,Not applicable,First,True
+"Tucker, Mr. Gilbert Milligan Jr",31.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Uruchurtu, Don. Manuel E",40.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Van der hoef, Mr. Wyckoff",61.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Walker, Mr. William Anderson",47.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Ward, Miss. Anna",35.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Warren, Mr. Frank Manley",64.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Weir, Col. John",60.0,Male,Passengers,Not applicable,Not applicable,First,False
+"White, Mr. Percival Wayland",54.0,Male,Passengers,Not applicable,Not applicable,First,False
+"White, Mr. Richard Frasar",21.0,Male,Passengers,Not applicable,Not applicable,First,False
+"White, Mrs. John Stuart (Ella Holmes)",55.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Wick, Miss. Mary Natalie",31.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Wick, Mr. George Dennick",57.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Wick, Mrs. George Dennick (Mary Hitchcock)",45.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Widener, Mr. George Dunton",50.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Widener, Mr. Harry Elkins",27.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Widener, Mrs. George Dunton (Eleanor Elkins)",50.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Willard, Miss. Constance",21.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Williams, Mr. Charles Duane",51.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Williams, Mr. Richard Norris II",21.0,Male,Passengers,Not applicable,Not applicable,First,True
+"Williams-Lambert, Mr. Fletcher Fellows",,Male,Passengers,Not applicable,Not applicable,First,False
+"Wilson, Miss. Helen Alice",31.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Woolner, Mr. Hugh",,Male,Passengers,Not applicable,Not applicable,First,True
+"Wright, Mr. George",62.0,Male,Passengers,Not applicable,Not applicable,First,False
+"Young, Miss. Marie Grice",36.0,Female,Passengers,Not applicable,Not applicable,First,True
+"Abelson, Mr. Samuel",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Abelson, Mrs. Samuel (Hannah Wizosky)",28.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Aldworth, Mr. Charles Augustus",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Andrew, Mr. Edgardo Samuel",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Andrew, Mr. Frank Thomas",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Angle, Mr. William A",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Angle, Mrs. William A (Florence 'Mary' Agnes Hughes)",36.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Ashby, Mr. John",57.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Bailey, Mr. Percy Andrew",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Baimbrigge, Mr. Charles Robert",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Ball, Mrs. (Ada E Hall)",36.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Banfield, Mr. Frederick James",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Bateman, Rev. Robert James",51.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Beane, Mr. Edward",32.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Beane, Mrs. Edward (Ethel Clarke)",19.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Beauchamp, Mr. Henry James",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Becker, Master. Richard F",1.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Becker, Miss. Marion Louise",4.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Becker, Miss. Ruth Elizabeth",12.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",36.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Beesley, Mr. Lawrence",34.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Bentham, Miss. Lilian W",19.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Berriman, Mr. William John",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Botsford, Mr. William Hull",26.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Bowenur, Mr. Solomon",42.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Bracken, Mr. James H",27.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Brown, Miss. Amelia 'Mildred'",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Brown, Miss. Edith Eileen",15.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Brown, Mr. Thomas William Solomon",60.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Bryhl, Miss. Dagmar Jenny Ingeborg",20.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Bryhl, Mr. Kurt Arnold Gottfrid",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Buss, Miss. Kate",36.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Butler, Mr. Reginald Fenton",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Byles, Rev. Thomas Roussel Davids",42.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Bystrom, Mrs. (Karolina)",42.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Caldwell, Master. Alden Gates",1.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Caldwell, Mr. Albert Francis",26.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Cameron, Miss. Clear Annie",35.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Campbell, Mr. William",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Carbines, Mr. William",19.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Carter, Rev. Ernest Courtenay",54.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Chapman, Mr. Charles Henry",52.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Chapman, Mr. John Henry",37.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",29.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Christy, Miss. Julie Rachel",25.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Christy, Mrs. (Alice Frances)",45.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Clarke, Mr. Charles Valentine",29.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",28.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Coleridge, Mr. Reginald Charles",29.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Collander, Mr. Erik Gustaf",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Collett, Mr. Sidney C Stuart",24.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Collyer, Miss. Marjorie 'Lottie'",8.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Collyer, Mr. Harvey",31.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Cook, Mrs. (Selena Rogers)",22.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Corbett, Mrs. Walter H (Irene Colvin)",30.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",,Female,Passengers,Not applicable,Not applicable,Second,False
+"Cotterill, Mr. Henry 'Harry'",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Davies, Master. John Morgan Jr",8.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Davies, Mr. Charles Henry",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",48.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Davis, Miss. Mary",28.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"de Brito, Mr. Jose Joaquim",32.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Deacon, Mr. Percy William",17.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"del Carlo, Mr. Sebastiano",29.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Denbury, Mr. Herbert",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Dibden, Mr. William",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Doling, Miss. Elsie",18.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Doling, Mrs. John T (Ada Julia Bone)",34.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Downton, Mr. William James",54.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Drew, Master. Marshall Brines",8.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Drew, Mr. James Vivian",42.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Duran y More, Miss. Asuncion",27.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Duran y More, Miss. Florentina",30.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Eitemiller, Mr. George Floyd",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Enander, Mr. Ingvar",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Fahlstrom, Mr. Arne Jonas",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Faunthorpe, Mr. Harry",40.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Fillbrook, Mr. Joseph Charles",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Fox, Mr. Stanley Hubert",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Frost, Mr. Anthony Wood 'Archie'",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Funk, Miss. Annie Clemmer",38.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Fynney, Mr. Joseph J",35.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gale, Mr. Harry",38.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gale, Mr. Shadrach",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Garside, Miss. Ethel",34.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Gaskell, Mr. Alfred",16.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gavey, Mr. Lawrence",26.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gilbert, Mr. William",47.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Giles, Mr. Edgar",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Giles, Mr. Frederick Edward",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Giles, Mr. Ralph",24.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gill, Mr. John William",24.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Gillespie, Mr. William Henry",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Givard, Mr. Hans Kristensen",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Greenberg, Mr. Samuel",52.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hale, Mr. Reginald",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hamalainen, Master. Viljo",1.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Hamalainen, Mrs. William (Anna)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Harbeck, Mr. William H",44.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Harper, Miss. Annie Jessie 'Nina'",6.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Harper, Rev. John",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Harris, Mr. George",62.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Harris, Mr. Walter",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hart, Miss. Eva Miriam",7.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hart, Mr. Benjamin",43.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Herman, Miss. Alice",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Herman, Miss. Kate",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Herman, Mr. Samuel",49.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Herman, Mrs. Samuel (Jane Laver)",48.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hewlett, Mrs. (Mary D Kingcome)",55.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hickman, Mr. Leonard Mark",24.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hickman, Mr. Lewis",32.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hickman, Mr. Stanley George",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hiltunen, Miss. Marta",18.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Hocking, Miss. Ellen 'Nellie'",20.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hocking, Mr. Richard George",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hocking, Mr. Samuel James Metcalfe",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hocking, Mrs. Elizabeth (Eliza Needs)",54.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hodges, Mr. Henry Price",50.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hold, Mr. Stephen",44.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hold, Mrs. Stephen (Annie Margaret Hill)",29.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Hood, Mr. Ambrose Jr",21.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Hosono, Mr. Masabumi",42.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Howard, Mr. Benjamin",63.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",60.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Hunt, Mr. George Henry",33.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Ilett, Miss. Bertha",17.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Jacobsohn, Mr. Sidney Samuel",42.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Jarvis, Mr. John Denzil",47.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Jefferys, Mr. Clifford Thomas",24.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Jefferys, Mr. Ernest Wilfred",22.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Jenkin, Mr. Stephen Curnow",32.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Kantor, Mr. Sinai",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Kantor, Mrs. Sinai (Miriam Sternin)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Karnes, Mrs. J Frank (Claire Bennett)",22.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Keane, Miss. Nora A",,Female,Passengers,Not applicable,Not applicable,Second,True
+"Keane, Mr. Daniel",35.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Kelly, Mrs. Florence 'Fannie'",45.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Kirkland, Rev. Charles Leonard",57.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Knight, Mr. Robert J",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Kvillner, Mr. Johan Henrik Johannesson",31.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Lahtinen, Mrs. William (Anna Sylfven)",26.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Lahtinen, Rev. William",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Lamb, Mr. John Joseph",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Laroche, Miss. Louise",1.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Laroche, Miss. Simonne Marie Anne Andree",3.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Laroche, Mr. Joseph Philippe Lemercier",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Lehmann, Miss. Bertha",17.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Leitch, Miss. Jessie Wills",,Female,Passengers,Not applicable,Not applicable,Second,True
+"Lemore, Mrs. (Amelia Milley)",34.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Levy, Mr. Rene Jacques",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Leyson, Mr. Robert William Norman",24.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Lingane, Mr. John",61.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Louch, Mr. Charles Alexander",50.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Mack, Mrs. (Mary)",57.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Malachard, Mr. Noel",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Mallet, Master. Andre",1.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Mallet, Mr. Albert",31.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Mallet, Mrs. Albert (Antoinette Magnin)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Mangiavacchi, Mr. Serafino Emilio",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Matthews, Mr. William John",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Maybery, Mr. Frank Hubert",40.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"McCrae, Mr. Arthur Gordon",32.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"McCrie, Mr. James Matthew",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"McKane, Mr. Peter David",46.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Mellinger, Miss. Madeleine Violet",13.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",41.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Mellors, Mr. William John",19.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Meyer, Mr. August",39.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Milling, Mr. Jacob Christian",48.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Mitchell, Mr. Henry Michael",70.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Montvila, Rev. Juozas",27.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Moraweck, Dr. Ernest",54.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Morley, Mr. Henry Samuel ('Mr Henry Marshall')",39.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Mudd, Mr. Thomas Charles",16.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Myles, Mr. Thomas Francis",62.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Nasser, Mr. Nicholas",32.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Nasser, Mrs. Nicholas (Adele Achem)",14.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Navratil, Master. Edmond Roger",2.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Navratil, Master. Michel M",3.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Navratil, Mr. Michel ('Louis M Hoffman')",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Nesson, Mr. Israel",26.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Nicholls, Mr. Joseph Charles",19.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Norman, Mr. Robert Douglas",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Nourney, Mr. Alfred ('Baron von Drachstedt')",20.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Nye, Mrs. (Elizabeth Ramell)",29.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Otter, Mr. Richard",39.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Oxenham, Mr. Percy Thomas",22.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Padro y Manent, Mr. Julian",,Male,Passengers,Not applicable,Not applicable,Second,True
+"Pain, Dr. Alfred",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Pallas y Castello, Mr. Emilio",29.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Parker, Mr. Clifford Richard",28.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Parkes, Mr. Francis 'Frank'",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Parrish, Mrs. (Lutie Davis)",50.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Pengelly, Mr. Frederick William",19.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Pernot, Mr. Rene",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Peruschitz, Rev. Joseph Maria",41.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Phillips, Miss. Alice Frances Louisa",21.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Phillips, Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",19.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Phillips, Mr. Escott Robert",43.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Pinsky, Mrs. (Rosa)",32.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Ponesell, Mr. Martin",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Portaluppi, Mr. Emilio Ilario Giuseppe",30.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Pulbaum, Mr. Franz",27.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Quick, Miss. Phyllis May",2.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Quick, Miss. Winifred Vera",8.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Quick, Mrs. Frederick Charles (Jane Richards)",33.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Reeves, Mr. David",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Renouf, Mr. Peter Henry",34.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Reynaldo, Ms. Encarnacion",28.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Richard, Mr. Emile",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Richards, Master. George Sibley",1.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Richards, Master. William Rowe",3.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Richards, Mrs. Sidney (Emily Hocking)",24.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Ridsdale, Miss. Lucy",50.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Rogers, Mr. Reginald Harry",19.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Rugg, Miss. Emily",21.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Schmidt, Mr. August",26.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Sedgwick, Mr. Charles Frederick Waddington",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Sharp, Mr. Percival James R",27.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Shelley, Mrs. William (Imanita Parrish Hall)",25.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Silven, Miss. Lyyli Karoliina",18.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Sincock, Miss. Maude",20.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Sinkkonen, Miss. Anna",30.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Sjostedt, Mr. Ernst Adolf",59.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Slayter, Miss. Hilda Mary",30.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Slemen, Mr. Richard James",35.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Smith, Miss. Marion Elsie",40.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Sobey, Mr. Samuel James Hayden",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Stanton, Mr. Samuel Ward",41.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Stokes, Mr. Philip Joseph",25.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Swane, Mr. George",18.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Sweet, Mr. George Frederick",14.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Toomey, Miss. Ellen",50.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Troupiansky, Mr. Moses Aaron",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Trout, Mrs. William H (Jessie L)",28.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Troutt, Miss. Edwina Celia 'Winnie'",27.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Turpin, Mr. William John Robert",29.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Veal, Mr. James",40.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Walcroft, Miss. Nellie",31.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Ware, Mr. John James",30.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Ware, Mr. William Jeffery",23.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Ware, Mrs. John James (Florence Louise Long)",31.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Watt, Miss. Bertha J",12.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Watt, Mrs. James (Elizabeth 'Bessie' Inglis Milne)",40.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Webber, Miss. Susan",32.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Weisz, Mr. Leopold",27.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Wells, Master. Ralph Lester",2.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Wells, Miss. Joan",4.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Wells, Mrs. Arthur Henry ('Addie' Dart Trevaskis)",29.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"West, Miss. Barbara J",1.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"West, Miss. Constance Mirium",5.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"West, Mr. Edwy Arthur",36.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",33.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Wheadon, Mr. Edward H",66.0,Male,Passengers,Not applicable,Not applicable,Second,False
+"Wheeler, Mr. Edwin 'Frederick'",,Male,Passengers,Not applicable,Not applicable,Second,False
+"Wilhelms, Mr. Charles",31.0,Male,Passengers,Not applicable,Not applicable,Second,True
+"Williams, Mr. Charles Eugene",,Male,Passengers,Not applicable,Not applicable,Second,True
+"Wright, Miss. Marion",26.0,Female,Passengers,Not applicable,Not applicable,Second,True
+"Yrois, Miss. Henriette ('Mrs Harbeck')",24.0,Female,Passengers,Not applicable,Not applicable,Second,False
+"Abbing, Mr. Anthony",42.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Abbott, Master. Eugene Joseph",13.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Abbott, Mr. Rossmore Edward",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Abbott, Mrs. Stanton (Rosa Hunt)",35.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Abelseth, Miss. Karen Marie",16.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Abelseth, Mr. Olaus Jorgensen",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Abrahamsson, Mr. Abraham August Johannes",20.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Adahl, Mr. Mauritz Nils Martin",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Adams, Mr. John",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Aks, Master. Philip Frank",1.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Aks, Mrs. Sam (Leah Rosen)",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Albimona, Mr. Nassef Cassem",26.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Alexander, Mr. William",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Alhomaki, Mr. Ilmari Rudolf",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ali, Mr. Ahmed",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ali, Mr. William",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Allen, Mr. William Henry",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Allum, Mr. Owen George",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Andersen, Mr. Albert Karvin",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Andersson, Master. Sigvard Harald Elias",4.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Miss. Ebba Iris Alfrida",6.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Miss. Ellis Anna Maria",2.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Miss. Erna Alexandra",17.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Andersson, Miss. Ida Augusta Margareta",38.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Miss. Ingeborg Constanzia",9.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Miss. Sigrid Elisabeth",11.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Mr. Anders Johan",39.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Mr. August Edvard ('Wennerstrom')",27.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Andersson, Mr. Johan Samuel",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Andreasson, Mr. Paul Edvin",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Angheloff, Mr. Minko",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Arnold-Franchi, Mr. Josef",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Aronsson, Mr. Ernst Axel Algot",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asim, Mr. Adola",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asplund, Master. Carl Edgar",5.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asplund, Master. Clarence Gustaf Hugo",9.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asplund, Master. Edvin Rojj Felix",3.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Asplund, Master. Filip Oscar",13.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asplund, Miss. Lillian Gertrud",5.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Asplund, Mr. Johan Charles",23.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Assaf Khalil, Mrs. Mariana ('Miriam')",45.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Assaf, Mr. Gerios",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Assam, Mr. Ali",23.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Attalah, Miss. Malake",17.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Attalah, Mr. Sleiman",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Augustsson, Mr. Albert",23.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ayoub, Miss. Banoura",13.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Baccos, Mr. Raffull",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Backstrom, Mr. Karl Alfred",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Baclini, Miss. Eugenie",1.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Baclini, Miss. Helene Barbara",1.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Baclini, Miss. Marie Catherine",5.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Baclini, Mrs. Solomon (Latifa Qurban)",24.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Badman, Miss. Emily Louisa",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Badt, Mr. Mohamed",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Balkic, Mr. Cerin",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Barah, Mr. Hanna Assi",20.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Barbara, Miss. Saiide",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Barbara, Mrs. (Catherine David)",45.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Barry, Miss. Julia",27.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Barton, Mr. David John",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Beavan, Mr. William Thomas",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bengtsson, Mr. John Viktor",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Berglund, Mr. Karl Ivar Sven",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Betros, Master. Seman",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Betros, Mr. Tannous",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bing, Mr. Lee",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Birkeland, Mr. Hans Martin Monsen",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bjorklund, Mr. Ernst Herbert",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bostandyeff, Mr. Guentcho",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Boulos, Master. Akar",6.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Boulos, Miss. Nourelain",9.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Boulos, Mr. Hanna",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Boulos, Mrs. Joseph (Sultana)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Bourke, Miss. Mary",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Bourke, Mr. John",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bourke, Mrs. John (Catherine)",32.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Bowen, Mr. David John 'Dai'",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Bradley, Miss. Bridget Delia",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Braf, Miss. Elin Ester Maria",20.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Braund, Mr. Lewis Richard",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Braund, Mr. Owen Harris",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Brobeck, Mr. Karl Rudolf",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Brocklebank, Mr. William Alfred",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Buckley, Miss. Katherine",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Buckley, Mr. Daniel",21.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Burke, Mr. Jeremiah",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Burns, Miss. Mary Delia",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Cacic, Miss. Manda",21.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Cacic, Miss. Marija",30.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Cacic, Mr. Jego Grga",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cacic, Mr. Luka",38.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Calic, Mr. Jovo",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Calic, Mr. Petar",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Canavan, Miss. Mary",21.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Canavan, Mr. Patrick",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cann, Mr. Ernest Charles",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Caram, Mr. Joseph",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Caram, Mrs. Joseph (Maria Elias)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Carlsson, Mr. August Sigfrid",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Carlsson, Mr. Carl Robert",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Carr, Miss. Helen 'Ellen'",16.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Carr, Miss. Jeannie",37.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Carver, Mr. Alfred John",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Celotti, Mr. Francesco",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Charters, Mr. David",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Chip, Mr. Chang",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Christmann, Mr. Emil",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Chronopoulos, Mr. Apostolos",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Chronopoulos, Mr. Demetrios",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Coelho, Mr. Domingos Fernandeo",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cohen, Mr. Gurshon 'Gus'",18.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Colbert, Mr. Patrick",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Coleff, Mr. Peju",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Coleff, Mr. Satio",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Conlon, Mr. Thomas Henry",31.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Connaghton, Mr. Michael",31.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Connolly, Miss Catherine",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Connolly, Miss Kate",30.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Connors, Mr. Patrick",70.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cook, Mr. Jacob",43.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cor, Mr. Bartol",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cor, Mr. Ivan",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cor, Mr. Liudevit",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Corn, Mr. Harry",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Coutts, Master. Eden Leslie 'Neville'",9.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Coutts, Master. William Loch 'William'",3.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Coutts, Mrs. William (Winnie 'Minnie' Treanor)",36.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Coxon, Mr. Daniel",59.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Crease, Mr. Ernest James",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Cribb, Miss. Laura Alice",17.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Cribb, Mr. John Hatfield",44.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Culumovic, Mr. Jeso",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Daher, Mr. Shedid",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dahl, Mr. Karl Edwart",45.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Dahlberg, Miss. Gerda Ulrika",22.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Dakic, Mr. Branko",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Daly, Miss. Margaret Marcella 'Maggie'",30.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Daly, Mr. Eugene Patrick",29.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Danbom, Master. Gilbert Sigvard Emanuel",0.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Danbom, Mr. Ernst Gilbert",34.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Danoff, Mr. Yoto",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dantcheff, Mr. Ristiu",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davies, Mr. Alfred J",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davies, Mr. Evan",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davies, Mr. John Samuel",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davies, Mr. Joseph",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davison, Mr. Thomas Henry",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Davison, Mrs. Thomas Henry (Mary E Finck)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"de Messemaeker, Mr. Guillaume Joseph",36.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"de Mulder, Mr. Theodore",30.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"de Pelsmaeker, Mr. Alfons",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dean, Master. Bertram Vere",1.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Dean, Miss. Elizabeth Gladys 'Millvina'",0.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Dean, Mr. Bertram Frank",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dean, Mrs. Bertram (Eva Georgetta Light)",33.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Delalic, Mr. Redjo",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Demetri, Mr. Marinko",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Denkoff, Mr. Mitto",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dennis, Mr. Samuel",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dennis, Mr. William",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Devaney, Miss. Margaret Delia",19.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Dika, Mr. Mirko",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dimic, Mr. Jovan",42.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dintcheff, Mr. Valtcho",43.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Doharr, Mr. Tannous",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dooley, Mr. Patrick",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dorking, Mr. Edward Arthur",19.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Dowdell, Miss. Elizabeth",30.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Doyle, Miss. Elizabeth",24.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Drapkin, Miss. Jennie",23.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Drazenoic, Mr. Jozef",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Duane, Mr. Frank",65.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Duquemin, Mr. Joseph",24.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Dyker, Mr. Adolf Fredrik",23.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Edvardsson, Mr. Gustaf Hjalmar",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Eklund, Mr. Hans Linus",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ekstrom, Mr. Johan",45.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Elias, Mr. Dibo",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Elias, Mr. Joseph",39.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Elias, Mr. Joseph Jr",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Elias, Mr. Tannous",15.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Elsbury, Mr. William James",47.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Emanuel, Miss. Virginia Ethel",5.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Emir, Mr. Farred Chehab",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Everett, Mr. Thomas James",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Farrell, Mr. James",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Finoli, Mr. Luigi",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Fischer, Mr. Eberhard Thelander",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Fleming, Miss. Honora",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Flynn, Mr. James",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Flynn, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Foley, Mr. Joseph",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Foley, Mr. William",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Foo, Mr. Choong",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Ford, Miss. Doolina Margaret 'Daisy'",21.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Ford, Miss. Robina Maggie 'Ruby'",9.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Ford, Mr. Arthur",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ford, Mr. Edward Watson",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ford, Mr. William Neal",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ford, Mrs. Edward (Margaret Ann Watson)",48.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Fox, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Franklin, Mr. Charles (Charles Fardon)",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gallagher, Mr. Martin",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Garfirth, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gheorgheff, Mr. Stanio",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gilinski, Mr. Eliezer",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gilnagh, Miss. Katherine 'Katie'",16.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Glynn, Miss. Mary Agatha",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Goldsmith, Master. Frank John William 'Frankie'",9.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Goldsmith, Mr. Frank John",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goldsmith, Mr. Nathan",41.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Goncalves, Mr. Manuel Estanslas",38.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Master. Harold Victor",9.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Master. Sidney Leonard",1.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Master. William Frederick",11.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Miss. Jessie Allis",10.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Miss. Lillian Amy",16.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Mr. Charles Edward",14.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Mr. Charles Frederick",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Goodwin, Mrs. Frederick (Augusta Tyler)",43.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Green, Mr. George Henry",51.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gronnestad, Mr. Daniel Danielsen",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Guest, Mr. Robert",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gustafsson, Mr. Alfred Ossian",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gustafsson, Mr. Anders Vilhelm",37.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gustafsson, Mr. Johan Birger",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Gustafsson, Mr. Karl Gideon",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Haas, Miss. Aloisia",24.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Hagardon, Miss. Kate",17.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Hagland, Mr. Ingvald Olai Olsen",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hagland, Mr. Konrad Mathias Reiersen",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hakkarainen, Mr. Pekka Pietari",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Hampe, Mr. Leon",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hanna, Mr. Mansour",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hansen, Mr. Claus Peter",41.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hansen, Mr. Henrik Juul",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hansen, Mr. Henry Damsgaard",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",45.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Harknett, Miss. Alice Phoebe",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Harmer, Mr. Abraham (David Lishin)",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hart, Mr. Henry",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hassan, Mr. Houssein G N",11.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Healy, Miss. Hanora 'Nora'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Hedman, Mr. Oskar Arvid",27.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Hee, Mr. Ling",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Hegarty, Miss. Hanora 'Nora'",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Heikkinen, Miss. Laina",26.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Heininen, Miss. Wendla Maria",23.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Hellstrom, Miss. Hilda Maria",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Hendekovic, Mr. Ignjac",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Henriksson, Miss. Jenny Lovisa",28.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Henry, Miss. Delia",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Hirvonen, Miss. Hildur E",2.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Holm, Mr. John Fredrik Alexander",43.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Holthen, Mr. Johan Martin",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Honkanen, Miss. Eliina",27.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Horgan, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Howard, Miss. May Elizabeth",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",42.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Hyman, Mr. Abraham",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Ibrahim Shawah, Mr. Yousseff",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ilieff, Mr. Ylio",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ilmakangas, Miss. Ida Livija",27.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Ilmakangas, Miss. Pieta Sofia",25.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Ivanoff, Mr. Kanio",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jalsevac, Mr. Ivan",29.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Jansson, Mr. Carl Olof",21.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Jardin, Mr. Jose Neto",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jensen, Mr. Hans Peder",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jensen, Mr. Niels Peder",48.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jensen, Mr. Svend Lauritz",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jermyn, Miss. Annie",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Johannesen-Bratthammer, Mr. Bernt",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Johanson, Mr. Jakob Alfred",34.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johansson Palmquist, Mr. Oskar Leander",26.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Johansson, Mr. Erik",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johansson, Mr. Gustaf Joel",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johansson, Mr. Karl Johan",31.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johansson, Mr. Nils",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnson, Master. Harold Theodor",4.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Johnson, Miss. Eleanor Ileen",1.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Johnson, Mr. Alfred",49.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnson, Mr. Malkolm Joackim",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnson, Mr. William Cahoone Jr",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Johnston, Master. William Arthur 'Willie'",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnston, Miss. Catherine Helen 'Carrie'",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Johnston, Mr. Andrew G",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Johnston, Mrs. Andrew G (Elizabeth 'Lily' Watson)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Jonkoff, Mr. Lalio",23.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jonsson, Mr. Carl",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Jonsson, Mr. Nils Hilding",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Jussila, Miss. Katriina",20.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Jussila, Miss. Mari Aina",21.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Jussila, Mr. Eiriik",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Kallio, Mr. Nikolai Erland",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kalvik, Mr. Johannes Halvorsen",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Karaic, Mr. Milan",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Karlsson, Mr. Einar Gervasius",21.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Karlsson, Mr. Julius Konrad Eugen",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Karlsson, Mr. Nils August",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Karun, Miss. Manca",4.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Karun, Mr. Franz",39.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Kassem, Mr. Fared",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Katavelas, Mr. Vassilios ('Catavelas Vassilios')",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Keane, Mr. Andrew 'Andy'",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Keefe, Mr. Arthur",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kelly, Miss. Anna Katherine 'Annie Kate'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Kelly, Miss. Mary",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Kelly, Mr. James",44.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kennedy, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Khalil, Mr. Betros",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Khalil, Mrs. Betros (Zahie 'Maria' Elias)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Kiernan, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kiernan, Mr. Philip",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kilgannon, Mr. Thomas J",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kink, Miss. Maria",22.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Kink, Mr. Vincenz",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Kink-Heilmann, Miss. Luise Gretchen",4.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Kink-Heilmann, Mr. Anton",29.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",26.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Klasen, Miss. Gertrud Emilia",1.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Klasen, Mr. Klas Albin",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",36.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Kraeff, Mr. Theodor",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Krekorian, Mr. Neshan",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Lahoud, Mr. Sarkis",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Laitinen, Miss. Kristina Sofia",37.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Laleff, Mr. Kristo",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lam, Mr. Ali",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Lam, Mr. Len",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Landergren, Miss. Aurora Adelia",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Lane, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lang, Mr. Fang",26.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Larsson, Mr. August Viktor",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Larsson, Mr. Bengt Edvin",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Larsson-Rondberg, Mr. Edvard A",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Leeni, Mr. Fahim ('Philip Zenni')",22.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Lefebre, Master. Henry Forbes",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lefebre, Miss. Ida",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lefebre, Miss. Jeannie",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lefebre, Miss. Mathilde",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lefebre, Mrs. Frank (Frances)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Leinonen, Mr. Antti Gustaf",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lemberopolous, Mr. Peter L",34.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lennon, Miss. Mary",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lennon, Mr. Denis",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Leonard, Mr. Lionel",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lester, Mr. James",39.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lievens, Mr. Rene Aime",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lindahl, Miss. Agda Thorilda Viktoria",25.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lindblom, Miss. Augusta Charlotta",45.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lindell, Mr. Edvard Bengtsson",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",30.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lindqvist, Mr. Eino William",20.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Linehan, Mr. Michael",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ling, Mr. Lee",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lithman, Mr. Simon",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lobb, Mr. William Arthur",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Lockyer, Mr. Edward",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lovell, Mr. John Hall ('Henry')",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lulic, Mr. Nikola",27.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Lundahl, Mr. Johan Svensson",51.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Lundin, Miss. Olga Elida",23.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Lundstrom, Mr. Thure Edvin",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Lyntakoff, Mr. Stanko",,Male,Passengers,Not applicable,Not applicable,Third,False
+"MacKay, Mr. George William",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Madigan, Miss. Margaret 'Maggie'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Madsen, Mr. Fridtjof Arne",24.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Maenpaa, Mr. Matti Alexanteri",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mahon, Miss. Bridget Delia",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Mahon, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Maisner, Mr. Simon",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Makinen, Mr. Kalle Edvard",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mamee, Mr. Hanna",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Mangan, Miss. Mary",30.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Mannion, Miss. Margareth",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Mardirosian, Mr. Sarkis",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Markoff, Mr. Marin",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Markun, Mr. Johann",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Masselmani, Mrs. Fatima",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Matinoff, Mr. Nicola",,Male,Passengers,Not applicable,Not applicable,Third,False
+"McCarthy, Miss. Catherine 'Katie'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"McCormack, Mr. Thomas Joseph",,Male,Passengers,Not applicable,Not applicable,Third,True
+"McCoy, Miss. Agnes",,Female,Passengers,Not applicable,Not applicable,Third,True
+"McCoy, Miss. Alicia",,Female,Passengers,Not applicable,Not applicable,Third,True
+"McCoy, Mr. Bernard",,Male,Passengers,Not applicable,Not applicable,Third,True
+"McDermott, Miss. Brigdet Delia",,Female,Passengers,Not applicable,Not applicable,Third,True
+"McEvoy, Mr. Michael",,Male,Passengers,Not applicable,Not applicable,Third,False
+"McGovern, Miss. Mary",,Female,Passengers,Not applicable,Not applicable,Third,True
+"McGowan, Miss. Anna 'Annie'",15.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"McGowan, Miss. Katherine",35.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"McMahon, Mr. Martin",,Male,Passengers,Not applicable,Not applicable,Third,False
+"McNamee, Mr. Neal",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"McNamee, Mrs. Neal (Eileen O'Leary)",19.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"McNeill, Miss. Bridget",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Meanwell, Miss. (Marion Ogden)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Meek, Mrs. Thomas (Annie Louise Rowley)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Meo, Mr. Alfonzo",56.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mernagh, Mr. Robert",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Midtsjo, Mr. Karl Albert",21.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Miles, Mr. Frank",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mineff, Mr. Ivan",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Minkoff, Mr. Lazar",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mionoff, Mr. Stoytcho",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mitkoff, Mr. Mito",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mockler, Miss. Helen Mary 'Ellie'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Moen, Mr. Sigurd Hansen",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Moor, Master. Meier",6.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Moor, Mrs. (Beila)",27.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Moore, Mr. Leonard Charles",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Moran, Miss. Bertha",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Moran, Mr. Daniel J",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Moran, Mr. James",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Morley, Mr. William",34.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Morrow, Mr. Thomas Rowan",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Moss, Mr. Albert Johan",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Moubarek, Master. Gerios",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Moubarek, Master. Halim Gonios ('William George')",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Moubarek, Mrs. George (Omine 'Amenia' Alexander)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Moussa, Mrs. (Mantoura Boulos)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Moutal, Mr. Rahamin Haim",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Mullens, Miss. Katherine 'Katie'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Mulvihill, Miss. Bertha E",24.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Murdlin, Mr. Joseph",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Murphy, Miss. Katherine 'Kate'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Murphy, Miss. Margaret Jane",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Murphy, Miss. Nora",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Naidenoff, Mr. Penko",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Najib, Miss. Adele Kiamie 'Jane'",15.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nakid, Miss. Maria ('Mary')",1.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nakid, Mr. Sahid",20.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Nakid, Mrs. Said (Waika 'Mary' Mowad)",19.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nancarrow, Mr. William Henry",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nankoff, Mr. Minko",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nasr, Mr. Mustafa",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Naughton, Miss. Hannah",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Nenkoff, Mr. Christo",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nicola-Yarred, Master. Elias",12.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Nicola-Yarred, Miss. Jamila",14.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nieminen, Miss. Manta Josefina",29.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Niklasson, Mr. Samuel",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nilsson, Miss. Berta Olivia",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nilsson, Miss. Helmina Josefina",26.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nilsson, Mr. August Ferdinand",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nirva, Mr. Iisakki Antino Aijo",41.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Niskanen, Mr. Juha",39.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Nosworthy, Mr. Richard Cater",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Novel, Mr. Mansouer",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Nysten, Miss. Anna Sofia",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Nysveen, Mr. Johan Hansen",61.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Brien, Mr. Thomas",,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Brien, Mr. Timothy",,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Brien, Mrs. Thomas (Johanna 'Hannah' Godfrey)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"O'Connell, Mr. Patrick D",,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Connor, Mr. Maurice",,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Connor, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Odahl, Mr. Nils Martin",23.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"O'Donoghue, Ms. Bridget",,Female,Passengers,Not applicable,Not applicable,Third,False
+"O'Driscoll, Miss. Bridget",,Female,Passengers,Not applicable,Not applicable,Third,True
+"O'Dwyer, Miss. Ellen 'Nellie'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Ohman, Miss. Velin",22.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"O'Keefe, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,True
+"O'Leary, Miss. Hanora 'Norah'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Olsen, Master. Artur Karl",9.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Olsen, Mr. Henry Margido",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Olsen, Mr. Karl Siegwart Andreas",42.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Olsen, Mr. Ole Martin",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Olsson, Miss. Elina",31.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Olsson, Mr. Nils Johan Goransson",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Olsson, Mr. Oscar Wilhelm",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Olsvigen, Mr. Thor Anderson",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Oreskovic, Miss. Jelka",23.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Oreskovic, Miss. Marija",20.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Oreskovic, Mr. Luka",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Osen, Mr. Olaf Elon",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Osman, Mrs. Mara",31.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"O'Sullivan, Miss. Bridget Mary",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Palsson, Master. Gosta Leonard",2.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Palsson, Master. Paul Folke",6.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Palsson, Miss. Stina Viola",3.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Palsson, Miss. Torborg Danira",8.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Master. Eino Viljami",1.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Master. Juha Niilo",7.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Master. Urho Abraham",2.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Mr. Ernesti Arvid",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Mr. Jaako Arnold",14.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Panula, Mrs. Juha (Maria Emilia Ojala)",41.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Pasic, Mr. Jakob",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Patchett, Mr. George",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Paulner, Mr. Uscher",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pavlovic, Mr. Stefo",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Peacock, Master. Alfred Edward",1.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Peacock, Miss. Treasteall",3.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Peacock, Mrs. Benjamin (Edith Nile)",26.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Pearce, Mr. Ernest",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pedersen, Mr. Olaf",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Peduzzi, Mr. Joseph",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pekoniemi, Mr. Edvard",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Peltomaki, Mr. Nikolai Johannes",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Perkin, Mr. John Henry",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Persson, Mr. Ernst Ulrik",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Peter, Master. Michael J",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Peter, Miss. Anna",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Peter, Mrs. Catherine (Catherine Rizk)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Peters, Miss. Katie",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Petersen, Mr. Marius",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Petranec, Miss. Matilda",28.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Petroff, Mr. Nedelio",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Petroff, Mr. Pastcho ('Pentcho')",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Petterson, Mr. Johan Emil",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pettersson, Miss. Ellen Natalia",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Pickard, Mr. Berk (Berk Trembisky)",32.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Plotcharsky, Mr. Vasil",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pokrnic, Mr. Mate",17.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Pokrnic, Mr. Tome",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Radeff, Mr. Alexander",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Razi, Mr. Raihed",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Reed, Mr. James George",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rekic, Mr. Tido",38.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Reynolds, Mr. Harold J",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Master. Albert",10.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Master. Arthur",4.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Master. Eric",7.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Master. Eugene",2.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Master. George Hugh",8.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rice, Mrs. William (Margaret Norton)",39.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Riihivouri, Miss. Susanna Juhantytar 'Sanni'",22.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Rintamaki, Mr. Matti",35.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Riordan, Miss. Johanna 'Hannah'",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Risien, Mr. Samuel Beard",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Risien, Mrs. Samuel (Emma)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Robins, Mr. Alexander A",50.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Robins, Mrs. Alexander A (Grace Charity Laury)",47.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Rogers, Mr. William John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rommetvedt, Mr. Knud Paust",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rosblom, Miss. Salli Helena",2.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Rosblom, Mr. Viktor Richard",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Roth, Miss. Sarah A",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Rouse, Mr. Richard Henry",50.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Rush, Mr. Alfred George John",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ryan, Mr. Edward",,Male,Passengers,Not applicable,Not applicable,Third,True
+"Ryan, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Saad, Mr. Amin",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Saad, Mr. Khalil",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Saade, Mr. Jean Nassr",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sadlier, Mr. Matthew",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sadowitz, Mr. Harry",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Saether, Mr. Simon Sivertsen",38.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Master. Thomas Henry",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Master. William Henry",14.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Miss. Ada",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Miss. Constance Gladys",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Miss. Dorothy Edith 'Dolly'",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Miss. Stella Anna",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Mr. Douglas Bullen",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Mr. Frederick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Mr. George John Jr",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Mr. John George",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sage, Mrs. John (Annie Bullen)",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Salander, Mr. Karl Johan",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Salkjelsvik, Miss. Anna Kristine",21.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Salonen, Mr. Johan Werner",39.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Samaan, Mr. Elias",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Samaan, Mr. Hanna",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Samaan, Mr. Youssef",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sandstrom, Miss. Beatrice Irene",1.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Sandstrom, Miss. Marguerite Rut",4.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Sap, Mr. Julius",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Saundercock, Mr. William Henry",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sawyer, Mr. Frederick Charles",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Scanlan, Mr. James",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sdycoff, Mr. Todor",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Shaughnessy, Mr. Patrick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sheerlinck, Mr. Jan Baptist",29.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Shellard, Mr. Frederick William",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Shine, Miss. Ellen Natalia",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Shorney, Mr. Charles Joseph",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Simmons, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sirayanian, Mr. Orsen",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sirota, Mr. Maurice",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sivic, Mr. Husein",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sivola, Mr. Antti Wilhelm",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Sjoblom, Miss. Anna Sofia",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Skoog, Master. Harald",4.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Skoog, Master. Karl Thorsten",10.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Skoog, Miss. Mabel",9.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Skoog, Miss. Margit Elizabeth",2.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Skoog, Mr. Wilhelm",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Slabenoff, Mr. Petco",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Slocovski, Mr. Selman Francis",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Smiljanic, Mr. Mile",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Smith, Mr. Thomas",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Smyth, Miss. Julia",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Soholt, Mr. Peter Andreas Lauritz Andersen",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Somerton, Mr. Francis William",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Spector, Mr. Woolf",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Spinner, Mr. Henry John",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Staneff, Mr. Ivan",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Stankovic, Mr. Ivan",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Stanley, Miss. Amy Zillah Elsie",23.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Stanley, Mr. Edward Roland",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Storey, Mr. Thomas",60.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Stoytcheff, Mr. Ilia",19.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Strandberg, Miss. Ida Sofia",22.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Stranden, Mr. Juho",31.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Strilic, Mr. Ivan",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Strom, Miss. Telma Matilda",2.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Sunderland, Mr. Victor Francis",16.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Sundman, Mr. Johan Julian",44.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Sutehall, Mr. Henry Jr",25.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Svensson, Mr. Johan",74.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Svensson, Mr. Johan Cervin",14.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Svensson, Mr. Olof",24.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Tenglin, Mr. Gunnar Isidor",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Theobald, Mr. Thomas Leonard",34.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thomas, Master. Assad Alexander",0.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Thomas, Mr. Charles P",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thomas, Mr. John",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thomas, Mr. Tannous",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thomas, Mrs. Alexander (Thamine 'Thelma')",16.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Thomson, Mr. Alexander Morrison",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thorneycroft, Mr. Percival",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Thorneycroft, Mrs. Percival (Florence Kate White)",,Female,Passengers,Not applicable,Not applicable,Third,True
+"Tikkanen, Mr. Juho",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Tobin, Mr. Roger",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Todoroff, Mr. Lalio",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Tomlin, Mr. Ernest Portage",30.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Torber, Mr. Ernst William",44.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Torfa, Mr. Assad",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Tornquist, Mr. William Henry",25.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Toufik, Mr. Nakli",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Touma, Master. Georges Youssef",7.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Touma, Miss. Maria Youssef",9.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",29.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Turcin, Mr. Stjepan",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Turja, Miss. Anna Sofia",18.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Turkula, Mrs. (Hedwig)",63.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"van Billiard, Master. James William",,Male,Passengers,Not applicable,Not applicable,Third,False
+"van Billiard, Master. Walter John",12.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"van Billiard, Mr. Austin Blyler",40.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Van Impe, Miss. Catharina",10.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Van Impe, Mr. Jean Baptiste",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"van Melkebeke, Mr. Philemon",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vande Velde, Mr. Johannes Joseph",33.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vande Walle, Mr. Nestor Cyriel",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vanden Steen, Mr. Leo Peter",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vander Cruyssen, Mr. Victor",47.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vander Planke, Miss. Augusta Maria",18.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Vander Planke, Mr. Julius",31.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vander Planke, Mr. Leo Edmondus",16.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Vartanian, Mr. David",22.0,Male,Passengers,Not applicable,Not applicable,Third,True
+"Vendel, Mr. Olof Edvin",20.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Vestrom, Miss. Hulda Amanda Adolfina",14.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Vovk, Mr. Janko",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Waelens, Mr. Achille",22.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Ware, Mr. Frederick",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Warren, Mr. Charles William",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Webber, Mr. James",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wenzel, Mr. Linhart",32.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",38.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Widegren, Mr. Carl/Charles Peter",51.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wiklund, Mr. Jakob Alfred",18.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wiklund, Mr. Karl Johan",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wilkes, Mrs. James (Ellen Needs)",47.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Willer, Mr. Aaron ('Abi Weller')",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Willey, Mr. Edward",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Williams, Mr. Howard Hugh 'Harry'",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Williams, Mr. Leslie",28.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Windelov, Mr. Einar",21.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wirz, Mr. Albert",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wiseman, Mr. Phillippe",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Wittevrongel, Mr. Camille",36.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Yasbeck, Mr. Antoni",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Yasbeck, Mrs. Antoni (Selini Alexander)",15.0,Female,Passengers,Not applicable,Not applicable,Third,True
+"Youseff, Mr. Gerious",46.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Yousif, Mr. Wazli",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Yousseff, Mr. Gerious",,Male,Passengers,Not applicable,Not applicable,Third,False
+"Zabour, Miss. Hileni",14.0,Female,Passengers,Not applicable,Not applicable,Third,False
+"Zabour, Miss. Thamine",,Female,Passengers,Not applicable,Not applicable,Third,False
+"Zakarian, Mr. Mapriededer",26.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Zakarian, Mr. Ortin",27.0,Male,Passengers,Not applicable,Not applicable,Third,False
+"Zimmerman, Mr. Leo",29.0,Male,Passengers,Not applicable,Not applicable,Third,False
