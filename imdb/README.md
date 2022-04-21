@@ -2,7 +2,7 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib_
 
-This project was one of my oldest, intended as a through exercise in data collection, cleaning, and wrangling as well as data exploration. Using different data sources, I put together an “enhanced” IMDB database containing information about nearly 90.000 movies from the past 120-ish years, and explored it in search of interesting movie trivia. Here’s a few examples.
+This project was one of my oldest, intended as a thorough exercise in data collection, cleaning, and wrangling as well as data exploration. Using different data sources, I put together an “enhanced” IMDB database containing information about nearly 90.000 movies from the past 120-ish years, and explored it in search of interesting movie trivia. Here’s a few examples.
 
 <table>  
   <tr>
