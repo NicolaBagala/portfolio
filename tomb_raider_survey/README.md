@@ -10,7 +10,7 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
   <tr>
     <td align=justify>
       <h3>📀 <b>Oldie but goldie</b></h3>
-      <p>Classic <i>Tomb Raider</i> games are decades old and far more advanced than the modern Survivor series. Yet, according to the survey respondents, <b>the Classic series is more enjoyable than the Survivor series</b> by quite some margin. </p>
+      <p>Classic <i>Tomb Raider</i> games are decades old and far more advanced than the modern <i>Survivor</i> series. Yet, according to the survey respondents, <b>the Classic series is more enjoyable than the <i>Survivor</i> series</b> by quite some margin. </p>
       <p align="center">
         <img src="codefree/figures/figure_5.svg">
       </p>
@@ -20,7 +20,7 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
   <tr>
     <td align="justify">
       <h3>♀️ <b>What do the ladies think?</b></h3>
-      <p>Despite persistent claims that female players didn’t like very much the older Classic and LAU series because of the way Lara looked in them, the sample shows that <b>they like them much more than they like the Survivor series</b>.</p>
+      <p>Despite persistent claims that female players didn’t like very much the older Classic and LAU series because of the way Lara looked in them, the sample shows that <b>they like them much more than they like the <i>Survivor</i> series</b>.</p>
       <p align="center">
         <img src="codefree/figures/figure_8.svg">
       </p>
@@ -50,7 +50,7 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
   <tr>
       <td align="justify">
         <h3>🐟 <b>Something fishy is going on...</b></h3>
-        <p><b>Respondents who like Classic and LAU games more tend to say Classic/LAU Lara wasn’t oversexualised</b> (`OSX-no`) in increasing percentages. Similarly, <b>the higher the enjoyment of Survivor games, the higher the percentage of respondents who say Classic/LAU Lara was oversexualised.</b> (`OSX-yes`). Bias much?</p>
+        <p><b>Respondents who like Classic and LAU games more tend to say Classic/LAU Lara wasn’t oversexualised</b> (`OSX-no`) in increasing percentages. Similarly, <b>the higher the enjoyment of <i>Survivor</i> games, the higher the percentage of respondents who say Classic/LAU Lara was oversexualised.</b> (`OSX-yes`). Bias much?</p>
         <p align="center">
           <img src="codefree/figures/figure_31.svg">
         </p>
@@ -64,6 +64,6 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
   
 In this repository, you will find:  
 - The [analysis notebook](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb), and
-- the [code-free](https://github.com/NicolaBagala/portfolio/blob/master/tr_survey/codefree/tomb_raider_survey_codefree.ipynb) analysis notebook.
+- the [code-free](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb) analysis notebook.
         
 Feel free to clone the repository, if you like!
