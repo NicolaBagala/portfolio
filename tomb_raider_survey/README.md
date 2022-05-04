@@ -1,4 +1,4 @@
-# A Deep Dive Into The Tomb Raider Fanbase
+# A Deep Dive Into The *Tomb Raider* Fanbase
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Google Forms_
 
