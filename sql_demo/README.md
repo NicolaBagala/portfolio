@@ -6,4 +6,4 @@ _**Tech used:** JupyterLab, SQLite, Python, Pandas_
 
 ### 😀 Curious to learn more? 
   
-<p align="justify">Have a look at the [project's notebook](https://github.com/NicolaBagala/portfolio/blob/master/sqldemo/sql_demo.ipynb), and feel free to clone the repository, if you like!</p>
+<p align="justify">Have a look at the <a href="https://github.com/NicolaBagala/portfolio/blob/master/sqldemo/sql_demo.ipynb">project's notebook</a>, and feel free to clone the repository, if you like!</p>
