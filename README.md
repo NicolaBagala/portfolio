@@ -4,7 +4,7 @@
 <p align="justify">Below is a short summary of each project in the repo. Feel free to check them out, and do come back again later to find new projects!</p>
 
 <div>
-    <h2>🎮 <a href="https://github.com/NicolaBagala/portfolio/tree/master/tomb_raider_survey">A Deep Dive Into The Tomb Raider Fanbase</a></h2>
+    <h2>🎮 <a href="https://github.com/NicolaBagala/portfolio/tree/master/tomb_raider_survey">A Deep Dive Into The <i>Tomb Raider</i> Fanbase</a></h2>
     <p><sup><i><b>Tech used:</b> JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Google Forms</i></sup></p>    
     <p align="justify">
     <a href="https://github.com/NicolaBagala/portfolio/tree/master/tomb_raider_survey">
