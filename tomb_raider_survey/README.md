@@ -4,7 +4,7 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
 
 <p align="justify">The <i>Tomb Raider</i> franchise, which revolves around the adventures of archaeologist Lara Croft, has seen a number of reboots and revamps of its main character over the years. Sometimes, the differences are small—like those between the Classic and LAU series; in other cases, the differences are quite big, like in the case of the Classic and <i>Survivor</i> series. As a fan myself, I was interested in understanding the preferences of the fanbase not only for different series, but also for the three different versions of Lara. Additionally, I wanted to see what her fans think of one of the most hotly debated topics in videogame history: was Lara Croft oversexualised?</p>
 
-<p align="justify">To figure it all out, I ran a survey and analysed the results. Below are some of the most interesting findings; if you want to read them in full, check the bottom of this page.</p>
+<p align="justify">To figure it all out, I ran a survey and analysed the results. Below are some of the most interesting findings; if you want to read the full project, you can do so with <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb">full code</a> or <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb">code-free</a>.</p>
 
 <table>  
   <tr>

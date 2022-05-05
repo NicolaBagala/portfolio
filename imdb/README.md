@@ -2,7 +2,7 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib_
 
-<p align="justify">This project was one of my oldest, intended as a thorough exercise in data collection, cleaning, and wrangling as well as data exploration. Using different data sources, I put together an “enhanced” IMDB database containing information about nearly 90.000 movies from the past 120-ish years, and explored it in search of interesting movie trivia. Here’s a few examples.</p>
+<p align="justify">This project was one of my oldest, intended as a thorough exercise in data collection, cleaning, and wrangling as well as data exploration. Using different data sources, I put together an “enhanced” IMDB database containing information about nearly 90.000 movies from the past 120-ish years, and explored it in search of interesting movie trivia. Below are a few examples; if you want to read the full project, both the <a href="https://github.com/NicolaBagala/portfolio/blob/master/imdb/imdb_wrangling.ipynb">wrangling</a> and <a href="https://github.com/NicolaBagala/portfolio/blob/master/imdb/imdb_exploration.ipynb">exploration</a> notebooks are available with full code. The exploration notebook is available also <a href="https://github.com/NicolaBagala/portfolio/blob/master/imdb/codefree/imdb_exploration_codefree.ipynb">code-free</a>.</p>
 
 <table>  
   <tr>

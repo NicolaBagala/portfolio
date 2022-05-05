@@ -40,7 +40,7 @@
 </div>
 
 <div>
-    <h2>🎼 <a href="https://github.com/NicolaBagala/portfolio/tree/master/titanic">Women And Children First</a></h2>
+    <h2>🚢 <a href="https://github.com/NicolaBagala/portfolio/tree/master/titanic">Women And Children First</a></h2>
     <sup><i><b>Tech used:</b> JupyterLab, Python, Pandas, Matplotlib, Seaborn, BeautifulSoup</i></sup>    
     <p align="justify">
     <a href="https://github.com/NicolaBagala/portfolio/tree/master/titanic">
