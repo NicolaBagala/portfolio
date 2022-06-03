@@ -2,6 +2,8 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, Seaborn, BeautifulSoup_
 
+**Note:** This is a summary of the project results. The full project is available both with code ([wrangling](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_wrangling.ipynb) and [analysis](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_analysis.ipynb)) as well as [code-free](https://github.com/NicolaBagala/portfolio/blob/master/titanic/codefree/titanic_analysis_codefree.ipynb) (analysis only).
+
 <p align="justify">The goal of this project was to figure out whether the unwritten rule “women and children first” applied to the tragedy of the <i>Titanic</i>. Aside from simply checking whether more men or women died, I wanted to see whether the percentage of victims of either sex differ significantly when factors like age, class, affiliation (i.e., crew or passenger), etc, are taken into account. I compared my results to those observed on the “shuffled <i>Titanic</i>”, an imaginary ship with the same overall death rate but whose victims and survivors were chosen entirely at random. Below are some key highlights from the project; the full code notebooks are available for both the <a href="https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_wrangling.ipynb">wrangling</a> and <a href="https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_analysis.ipynb">analysis</a> part, and there's a <a href="https://github.com/NicolaBagala/portfolio/blob/master/titanic/codefree/titanic_analysis_codefree.ipynb">code-free</a> analysis notebook too.</p>
 
 <table>  
@@ -48,11 +50,10 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, Seaborn, BeautifulSoup_
 </table>
 
 
-### 😀 Curious to learn more? 
+<p align="justify">If you'd like to dig deeper in the details of the project, pick your flavour and take a look at the full project:</p>
   
-In this repository, you will find:  
-- The [analysis notebook](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_analysis.ipynb),
-- the [code-free](https://github.com/NicolaBagala/portfolio/blob/master/titanic/codefree/titanic_analysis_codefree.ipynb) analysis notebook, and
-- the [data wrangling notebook](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_wrangling.ipynb).
+- [analysis notebook](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_analysis.ipynb);
+- [code-free](https://github.com/NicolaBagala/portfolio/blob/master/titanic/codefree/titanic_analysis_codefree.ipynb) analysis notebook;
+- [data wrangling notebook](https://github.com/NicolaBagala/portfolio/blob/master/titanic/titanic_wrangling.ipynb).
         
-Feel free to clone the repository, if you like!
+

@@ -2,7 +2,7 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, NumPy_
 
-**Note:** This is a summary of the the project results. Click [here](https://github.com/NicolaBagala/portfolio/blob/master/insurance/insurance.ipynb) for the full project with code, or [here](https://github.com/NicolaBagala/portfolio/blob/master/insurance/codefree/insurance_codefree.ipynb) for a code-free version of the full project.<br><br>
+**Note:** This is a summary of the project results. Click [here](https://github.com/NicolaBagala/portfolio/blob/master/insurance/insurance.ipynb) for the full project with code, or [here](https://github.com/NicolaBagala/portfolio/blob/master/insurance/codefree/insurance_codefree.ipynb) for a code-free version of the full project.<br><br>
 
 <p align="justify">In this project, I tested a few different hypotheses on medical insurance costs, using a simulated dataset that should nonetheless reflect actual conditions in the USA. The hypothesis I wanted to test were:</p>
 

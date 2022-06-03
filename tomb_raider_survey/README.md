@@ -2,68 +2,49 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Google Forms_
 
-<p align="justify">The <i>Tomb Raider</i> franchise, which revolves around the adventures of archaeologist Lara Croft, has seen a number of reboots and revamps of its main character over the years. Sometimes, the differences are small—like those between the Classic and LAU series; in other cases, the differences are quite big, like in the case of the Classic and <i>Survivor</i> series. As a fan myself, I was interested in understanding the preferences of the fanbase not only for different series, but also for the three different versions of Lara. Additionally, I wanted to see what her fans think of one of the most hotly debated topics in videogame history: was Lara Croft oversexualised?</p>
+**Note:** This is a summary of the project results. Click [here](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb) for the full project with code, or [here](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb) for a code-free version of the full project.
 
-<p align="justify">To figure it all out, I ran a survey and analysed the results. Below are some of the most interesting findings; if you want to read the full project, you can do so with <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb">full code</a> or <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb">code-free</a>.</p>
+<p align="justify">The <i>Tomb Raider</i> franchise, which revolves around the adventures of archaeologist Lara Croft, has seen a number of reboots and revamps of its main character over the years. Sometimes, the differences are small—like those between the Classic and LAU series; in other cases, the differences are quite big, like in the case of the Classic and <i>Survivor</i> series. As a fan myself, I was interested in understanding the preferences of the fanbase not only for different series, but also for the three different versions of Lara. More precisely, I wanted to find an answer to three main questions:</p>
 
-<table>  
-  <tr>
-    <td align=justify>
-      <h3>📀 <b>Oldie but goldie</b></h3>
-      <p>Classic <i>Tomb Raider</i> games are decades old and far more advanced than the modern <i>Survivor</i> series. Yet, according to the survey respondents, <b>the Classic series is more enjoyable than the <i>Survivor</i> series</b> by quite some margin. </p>
-      <p align="center">
-        <img src="codefree/figures/figure_5.svg">
-      </p>
-    </td>    
-  </tr>
+<ol>
+  <li>Many think that Lara's exaggerated sex appeal in Classic and LAU games made both the games and the character unlikeable to female players. <strong>Is it true? Do they prefer Survivor Lara and/or <i>Survivor</i> games?</strong></li>
+  <li>Another common assumption is that Classic/LAU Lara looked the way they did to please straight male players. If that's true, <strong>do straight males prefer Classic/LAU Lara over the much more average-looking Survivor Lara?</strong></li>
+  <li><strong>Does the fandom agree that Classic/LAU Lara was oversexualised?</strong></li>
+</ol>
 
-  <tr>
-    <td align="justify">
-      <h3>♀️ <b>What do the ladies think?</b></h3>
-      <p>Despite persistent claims that female players didn’t like very much the older Classic and LAU series because of the way Lara looked in them, the sample shows that <b>they like them much more than they like the <i>Survivor</i> series</b>.</p>
-      <p align="center">
-        <img src="codefree/figures/figure_8.svg">
-      </p>
-    </td>    
-  </tr>
+<p align="justify">To figure it all out, I ran a survey and analysed the results. In this summary, I'll briefly discuss only the results concerning the three questions above; if you're interested, the full project goes into a lot more detail.</p>
 
-  <tr>
-    <td align="justify">
-      <h3>🥇 <b>And the winner is...</b></h3>
-      <p>Even after all these years, <b>Classic Lara seems to be still the fandom’s favourite</b>—with 95% confidence anyway.</p>
-      <p align="center">
-        <img src="codefree/figures/figure_14.svg">
-      </p>
-    </td>    
-  </tr>  
+<p align="justify"><strong>Female respondents definitely <i>did</i> enjoy Classic and LAU games, and they did so more than they enjoyed <i>Survivor</i> games.</strong> The chart below illustrates this both in absolute and percentage terms: when the measure of game enjoyment is positive or neutral (answers <i>A lot</i>, <i>Quite a bit</i>, and <i>Somewhat</i>), <i>Survivor</i> games are always trailing behind Classic or LAU games (or both); when the measure is negative (answers <i>A little</i> and <i>Not at all</i>), they always "beat" the other two series, so to speak.<br><br>
+</p>
 
-  <tr>
-      <td align="justify">
-        <h3>🤔 <b>Were Classic and/or LAU Lara oversexualised?</b></h3>
-        <p>By and large, <b>the sample doesn’t think so, and probably neither does most of the fandom.</b> But there’s more than meets the eye...</b></p>
-        <p align="center">
-          <img src="codefree/figures/figure_23.svg">
-        </p>
-      </td>    
-  </tr>
+<p align="center">
+  <img src="codefree/figures/figure_8.svg">
+</p>
 
-  <tr>
-      <td align="justify">
-        <h3>🐟 <b>Something fishy is going on...</b></h3>
-        <p><b>Respondents who like Classic and LAU games more tend to say Classic/LAU Lara wasn’t oversexualised</b> (`OSX-no`) in increasing percentages. Similarly, <b>the higher the enjoyment of <i>Survivor</i> games, the higher the percentage of respondents who say Classic/LAU Lara was oversexualised.</b> (`OSX-yes`). Bias much?</p>
-        <p align="center">
-          <img src="codefree/figures/figure_31.svg">
-        </p>
-      </td>    
-  </tr>
- 
-</table>
+<p align="justify">In terms of which sex prefers which version of Lara, the sample data is unequivocal that, surprisingly, <strong>female players who prefer Classic and LAU Lara (the allegedly "oversexualised" versions of Lara!) are more than those who prefer Survivor Lara;</strong> Classic Lara is the favourite of both female and male players, but interestingly, more male players prefer Survivor Lara over LAU Lara, and in percentage, <strong>a fair bit more male players than female players prefer Survivor Lara!</strong> (The full project digs deeper into this, accounting for the sexual orientation of the respondents.)<br><br></p>
 
+<p align="center">
+  <img src="codefree/figures/figure_16.svg">
+</p>
 
-### 😀 Curious to learn more? 
+<p align="justify">A statistical analysis of this result revealed that, with 95% confidence, <strong>Classic Lara is likely the favourite of both male <i>and</i> female fans in general.</strong> Unfortunately, the sample wasn't large enough to produce smaller confidence intervals; there's often significant overlap, and therefore the estimated proportions below aren't as accurate as they could be. But even so, <strong>in the case of female players, there's no overlap between the intervals of Survivor and Classic Lara,</strong> making it unlikely that Survivor Lara might be the ladies' favourite. <strong>For male players, instead, the overlap makes it quite possible that Survivor Lara might be the winner.</strong> Only a survey with more respondents may answer this question, but in any case, these results fly right in the face of commonly held assumptions about Lara Croft and her fanbase's preferences.<br><br></p>
+
+<p align="center">
+  <img src="codefree/figures/figure_17.svg">
+</p>
+
+<p align="justify">The final question, i.e. whether Classic/LAU Lara (CLL for short) was oversexualised, is pretty much settled according to the respondents: <strong>No, she was not,</strong> said a staggering 49.5% of the respondents. (If you browse the full project, you'll see that males and females picked every option in nearly identical percentages.)<br><br></p>
+
+<p align="center">
+  <img src="codefree/figures/figure_23.svg">
+</p>
+
+<p align="justify">However, inference on these results revealed that it's still possible that, at the fandom level, the answer might instead be "Yes", as shown by the overlap of the confidence intervals below.<br><br></p>
+
+<p align="center">
+  <img src="codefree/figures/figure_24.svg">
+</p>
+
+<p align="justify">This isn't but a fraction of the full project; if you want to read more, have a look at the <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb">analysis notebook</a> or its <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb">code-free</a> version, if you couldn't care less about code!</p>
   
-In this repository, you will find:  
-- The [analysis notebook](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb), and
-- the [code-free](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb) analysis notebook.
-        
-Feel free to clone the repository, if you like!
+
