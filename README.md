@@ -4,6 +4,18 @@
 <p align="justify">Below is a short summary of each project in the repo. Feel free to check them out, and do come back again later to find new projects!</p>
 
 <div>
+    <h2>💲 <a href="https://github.com/NicolaBagala/portfolio/tree/master/insurance">Testing Hypotheses On Medical Insurance Costs</a></h2>
+    <p><sup><i><b>Tech used:</b> JupyterLab, Python, Pandas, Matplotlib, SciPy, NumPy</i></sup></p>    
+    <p align="justify">
+    <a href="https://github.com/NicolaBagala/portfolio/tree/master/insurance">
+        <img src="git_thumbs/insurance.jpg" align="left" width="40%">
+    </a>
+    This project focuses on statistical analysis to test hypotheses concerning medical insurance costs. Do male or female patients have higher medical expenses? Does body weight correlate with expenses in any way? What about age, or smoking? Those are the questions I set out to answer.</p>
+    <p align="right"><a href="https://github.com/NicolaBagala/portfolio/tree/master/insurance">>> Browse the project >></a></p>
+    <br clear="left"/>       
+</div>
+
+<div>
     <h2>🎮 <a href="https://github.com/NicolaBagala/portfolio/tree/master/tomb_raider_survey">A Deep Dive Into The <i>Tomb Raider</i> Fanbase</a></h2>
     <p><sup><i><b>Tech used:</b> JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Google Forms</i></sup></p>    
     <p align="justify">
