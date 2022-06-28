@@ -4,6 +4,18 @@
 <p align="justify">Below is a short summary of each project in the repo. Feel free to check them out, and do come back again later to find new projects!</p>
 
 <div>
+    <h2>📊 <a href="https://github.com/NicolaBagala/portfolio/tree/master/stack_overflow">StackOverflow Tag Statistics</a></h2>
+    <p><sup><i><b>Tech used:</b> MS SQL Server, Tableau</i></sup></p>    
+    <p align="justify">
+    <a href="https://github.com/NicolaBagala/portfolio/tree/master/stack_overflow">
+        <img src="git_thumbs/stack_overflow.jpg" align="left" width="40%">
+    </a>
+    This small project was an SQL exercise to practise working with large databases and familiarise with the newest version of MS SQL Server. I used a publicly available version of the StackOverflow database to pull some statistics about tags used to tag the website's questions, and visualised the result in Tableau.</p>
+    <p align="right"><a href="https://github.com/NicolaBagala/portfolio/tree/master/stack_overflow">>> Browse the project >></a></p>
+    <br clear="left"/>       
+</div>
+
+<div>
     <h2>💲 <a href="https://github.com/NicolaBagala/portfolio/tree/master/insurance">Testing Hypotheses On Medical Insurance Costs</a></h2>
     <p><sup><i><b>Tech used:</b> JupyterLab, Python, Pandas, Matplotlib, SciPy, NumPy</i></sup></p>    
     <p align="justify">

@@ -1,4 +1,4 @@
-# StackOverflow tag statistics
+# StackOverflow Tag Statistics
 
 _**Tech used:** MS SQL Server, Tableau_
 
