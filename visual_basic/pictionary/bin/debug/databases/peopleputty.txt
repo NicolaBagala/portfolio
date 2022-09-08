@@ -1,0 +1,395 @@
+sbadiglio;yawn;haukotus
+quiz;quiz;tietokilpailu
+occhio;eye;silmä
+leone;lion;leijona
+malato;sick;sairas
+cavalletta;grasshopper;heinäsirkkä
+supino;supine;selällään
+pestare con i piedi;to crush sthg under feet;talloa
+asfissia;asphyxia;tukehtuminen
+piantagione;plantation;viljelmä
+diva;female star;diva
+mummia;mummy;muumio
+buddha;buddha;buddha
+doccia;shower;suihku
+falegname;joiner,carpenter;puuseppä
+vescovo;bishop (church);piispa
+sabbie mobili;quicksand;juoksuhieksat
+spaventapasseri;scarecrow;variksenpelätin
+poliziotto;policeman;poliisi
+maiale;pig;sika
+squash;squash;squash
+pupazzo a molla;push puppet;vieterinukke
+toro;bull;härkkä
+maggiordomo;butler;hovimestari
+dare una spinta;to give a push;työntää
+genio;genius;nero
+nuotatore;swimmer;uimari
+segreto;secret;salaisuus
+cocktail shacker;cocktail shacker;cocktail shacker
+pesce spda;swordfish;miekkakala
+lavare;to wash;pestä
+scopa;broom;lattiaharja
+esame oculistico;oculist check-up
+silmätarkastus
+barone;baron;paroni
+pudore;decency,modesty,reserve;häveliäisyys
+gargarismi;gargle;kurlaukset
+piegare;to fold (up);taivuttaa
+danzatrice;female dancer;naistanssija
+samurai;samurai;samurai
+freno;brake;jarru
+sogliola;tongue-fish;meriantura
+marciare;to march;marssia
+cantante rock;rock singer;rocklaulaja
+firma;signature;allekirjoitus
+aspirazione;aspiration,inhalation;imu
+armonica;harmonica;harmonikka
+capriccio;whim;oikku
+ombra;shadow;varjo
+bikini;bikini;bikini
+schiaffo;slap,smack;läimäisy
+palestra;gymnasium,gym;kuntosali
+aspirapolvere;vacuum cleaner;imuri
+trucco;make-up;meikki
+titanic;titanic;titanic
+cieco;blind (person);sokea
+spazzolino da denti;toothbrush;hammasharja
+sciocchino;silly;tyhmä,typerä
+sceriffo;sheriff;seriffi
+marionetta;marionette;marionetti
+Y.M.C.A.;Y.M.C.A.;Y.M.C.A.
+suora;nun;nunna
+seggiovia;chair lift;näköalahissi
+attaccabrighe;quarrelsome person;riidanhaastaja
+statua di cera;wax statue;vahapatsas
+infarto;heart attack;infarkti
+mago;magician;taikuri
+microscopio;microscope;mikroskooppi
+eccitato;excited;innostunut
+granchio;crab;rapu
+salsa;salsa (dance);salsa
+sonno;sleep;uni
+cupido;cupid;amor
+centralinista;switchboard operator;keskuksenhoitaja
+guardia;guard;vartija
+astronauta;astronaut;astronautti
+fantino;jockey;ratsastaja
+esploratore;explorer;tutkimusmatkailija
+sanguisughe;bloodsucker;iilimato
+afferrare;to grab;tarttua
+vecchio;old;vanha
+mal di gola;sore throat;kurkkukipu
+esausto;exahausted;lopen uupunut
+pazzo;mad;hullu
+morto;dead;kuollut
+citofono;entryphone;ovipuhelin
+ombelico;navel;napa
+scimpanzé;chimpanzee;simpanssi
+bufalo;buffalo;puhveli
+bocca chiusa;mouth closed;kiini oleva suu
+alpinista;mountaineer,alpinist;vuorikiipeilijä
+battesimo;baptism,christening;kaste
+karateka;karateka;karateka
+discoteca;discotheque;disko
+breakdance;breakdance;breakdance
+psycho;psycho;psycho
+profumo;parfume;tuoksu,hajuvesi
+grasso;fat;rasva tai lihava
+corda per saltare;skipping rope;hyppynaru
+babbo natale;santa claus;joulupukki
+personaggio d'azione;action character;action-hahmo
+autista;car driver;autonkuljettaja
+morso;bite;puraisu
+valletta;female tv-assistant;tv-assistentti (nainen)
+starnutire;to sneeze;aivastaa
+buttafuori;call-boy,boucer;portsari
+crema da corpo;body lotion;ihovoide
+kung fu;kung fu;kung fu
+vischio;mistletoe;misteli
+suonatore ambulante;street musician;keirtävä soittaja
+affamato;hungry;nälkäinen
+polipo;polyp,octopus;polyyppi
+pappagallo;parrot;papukaja
+cricket;cricket;cricket
+masticare;to chew;pureskella
+pregare;to pray;rukoilla
+biliardo;billiards;biljardi
+mimo;mime;miimikko
+crollare;to collapse;sortua
+calcio;kick or football or calcium;potku tai jalkapallo tai kalsium
+gobba;hunch;kyttyrä
+sorriso;smile;hymy
+vento;wind;tuuli
+prigioniero;prisoner;vanki
+flamenco;flamenco;flamenco
+solletico;tickle;kutitus
+nauseante;nauseating;ällöttävä
+tastiera;keyboard;näppäimistö
+ninja;ninja;ninja
+criniera;mane;hevosenharja
+baule;trunk,boot;matka-arkku
+cacciatore;hunter;metsästäjä
+pinguino;penguin;pingviini
+pinzatrice;stapler;nitoja
+ginnasta;gymnast;voimistelija
+moto;motion or exercise or motorbike;liike tai liikunta tai moottoripyörä
+cerniera;zipper;vetoketju
+seppellire;to bury;haudata
+batterista;drummer;rumppali
+ingenuo;naive;naiivi
+meditazione;meditation;meditaatio
+monaco;monk or monaco ;munkki tai monako
+yo-yo;yo-yo;yo-yo
+zombie;zombie;zombie
+meteorologo;meteorologist;meteorologi
+fotocopia;photocopy;valokopio
+anestesia;anaesthesia;anestesia
+massaggio;massage;hieronta
+gas;gas;kaasu
+aria condizionata;air conditioning;ilmastointi
+kayak;kayak;kajakki
+sacco da pugile;boxing bag;nykerkeilysakki
+barbiere;barber;parturi
+salto in alto;high jump;korkeushyppy
+robot;robot;robotti
+gorilla;gorilla;gorilla
+posa;sitting (eg. for a portrait);asento
+gioco d'azzardo;gambling;uhkapeli
+fare a fette;to slice;leikata viipaleiksi
+statua;statue;patsas
+giudice;judge;tuomari
+cameriere;waiter;tarjoilija
+camminare;to walk;kävellä
+quotidiano;newspaper;päivälehti
+volante;steering wheel;ratti
+proporre;to propose,to suggest;ehdottaa
+iniettare;to inject;ruiskuttaa
+paracadutista;parachutist;laskuvarjohyppääjä
+fattorino;errand boy,bellboy;lähetti
+pannolino;nappy,diaper,sanitary pad;vaippa
+sorpresa;surprise;yllätys
+reggae;reggae;reggae
+jolly;jolly;jokeri
+rapper;rapper;rapper
+rana;frog;sammakko
+dittatore;dictator;diktaattori
+sbucciare;to peel;kuoria
+bacio;kiss;suudelma
+nuoto;swimming;uinti
+attore;actor;näyttelijä
+cavallo da corsa;racehorse;kilpahevonen
+culturista;body-builder;kehonrakentaja
+tip tap;tip-tap;tip tap-tanssi
+leggero;light (not heavy);kevyt
+fetale;fetal;sikiö-
+salto con l'asta;pole vault;seiväshyppy
+nocca;knuckle;rystynen
+lottatore di sumo;sumo wrestler;sumopainija
+sarto;tailor;räätäli
+terremoto;earthquacke;maanjärjistys
+contorsionista;contortionist;käärmeihminen
+indiano;indian;intialainen;intiaani
+boccaglio;nozzle;snorkkeli
+gallina;chicken;kana
+lucidare;to polish;kiillottaa
+full monty;full monty;full monty
+governatore;governor;pääjohtaja
+canguro;kangaroo;kenguru
+dormire;to sleep;nukkua
+dammi un cinque;gimme five;gimme five
+strizzare;to squeeze;pusertaa,puristaa
+mento;chin;leuka
+macchina da scrivere;typewriter;kirjoituskone
+scavare;to dig;kaivata
+pizzicare;to pinch,to nip;nipistää
+fare gli addominali;to do sit-ups;tehdä vatsalihasliiket
+pinagere;to cry;itkeä
+chirurgo;surgeon;kirurgi
+predicatore;preacher;saarnaaja
+torero;toreador;härkkätaistelija
+bebe';baby;vauva
+orangotango;orangutan;oranki (apina)
+madonna;madonna;madonna
+annoiato;bored;ikävystynyt
+cuoco;cook;kokki
+confessionale;confessional;rippituoli
+leccare;to lick;nuolla
+sorso;sip,draught;siemaus
+rotolare;to roll;pyöriä,pyörittää
+nocciolina;peanut;pähkinä
+svenire;to faint;pyörtyä
+sfera magica;magic ball;kristallipallo
+brivido;shiver;väristys
+inginocchiarsi;to kneel;polistua
+biancaneve;snow white;lumikki
+las vegas;las vegas;las vegas
+dottore;doctor;lääkäri
+pianista;pianist;pianisti
+can-can;french can-can;can-can
+dr. jekyll;dr. jekyll;dr. jekyll
+affogare;to drown;hukuttaa
+picchio;woodpecker;tikka
+punk;punk;punkkari
+cheerleader;cheerleader;cheerleader
+tennis;tennis;tennis
+ipnotizzare;to hypnotize;hypnotisoida
+bicipite;bycep;hauis
+serpente;snake;käärme
+parodia;parody;parodia
+verticale;vertical;pystysuora
+re;king;kuningas
+tavola da surf;surfboard;surf-lauta
+giuramento;oath;vala
+coniglio;rabbit;kaniini
+madre;mother;äiti
+piovra;octopus;meritursas
+fata;fairy;haltijatar
+uccidere;to kill;tappaa
+papa;pope;paavi
+topo;mouse;hiiri
+schiacciata (pallavolo); smash (volleyball);iskulyönti (lentopallo)
+pifferaio;fifer;pillipiipari
+pattinare;to skate;luistella
+gel per capelli;hair gel;hiusgeeli
+giocare a golf;to play golf;pelata golfia
+asino;donkey;aasi
+infermiera;nurse;sairaanhoitaja
+silenzio;silence;hiljaisuus
+cannibale;cannibal;kannibaali
+dinosauro;dinosaur;dinosauri
+circo;circus;sirkus
+urlo;scream;huuto
+alieno;alien;avaruusolento
+vampiro;vampire;vampyyri
+capogiro;dizziness;huimaus
+tacchino;turkey (animal);kalkkuna
+burattino;marionette;marionetti
+R2D2 (robot di star wars);R2D2 (star wars robot);R2D2 (tähtien sotan robotti)
+mangiarsi le unghie;to bite one's nails;pureskellä kynsia
+gallo;cock,rooster;kukko
+bandito;outlaw;maantierosvo
+dentiera;denture;tekohampaat
+balletto;ballet;baletti
+bastone da hockey;hockey stick;jääkiekkonuija
+ladro;thief;varas
+sportivo
+sporting (adj.);sporttinen
+applauso;applause;aploodit
+panino;sandwich;sämpylä
+rodeo;rodeo;rodeo
+acrobata;acrobat;akrobaatti
+pomo d'adamo;adam's apple;aatamin omena
+guaritore;healer;parantaja
+salto della cavallina;leapfrog;pukkihyppy
+rinoceronte;rhinoceros;sarvikuono
+saltello;hop;hypähdys
+baffi;mustaches;viikset
+shampoo;shampoo;shampoo
+cucinare;to cook;kokata
+radersi;to shave (oneself);ajaa partansa
+pensare;to think;ajatella
+mafioso;mafioso;mafioso
+pugile;boxer,pugilist;nyrkeilijä
+impasto;dough;taikina
+bidone;tank,drum;kanisteri
+cambio (di marcia);gearbox;vaihteehvaihto
+sagittario;Sagittarius;jousimies
+sputare il rospo;to spit it out;kakistaa ulos
+abbraccio;hug;halaus
+prurito;itch;kutina
+disc jockey;disc jockey;disc jockey
+flirt;flirt;flirt
+fermare un taxi;to stop a taxi;pysäyttää taxin
+girasole;sunflower;auringonkukka
+curva;curve;käyrä
+camicia di forza;strait-jacket;pakkopaita
+pompiere;fireman;palomies
+coyote;coyote;kojootti
+flessioni;press-ups;punnerukset
+mal di stomaco;stomach ache;vatsakipu
+tic nervoso;nervous tic;pakkoliike
+strabismo;squinting;kierosilmäisyys
+arbitro;referee;erotuomari
+piercing;piercing;lävistys
+nonna;grandmother;mummo
+battitore (all'asta);auctioneer;huutokauppias
+taglialegna;lumberjack;metsuri
+pettine;comb;kampa
+toccare il fondo;to reach rock bottom;olla pohjalla
+nano;dwarf;kääpiö
+sordo;deaf;kuuro
+scodinzolare;to wag its tail;heiluttaa häntäänsä
+estintore;fire extinguisher;palosammutin
+arresto;arrest;pidätys
+guidare;to drive;ajaa
+guida turistica;tourist guide;turistiopas
+cavallo;horse;hevonen
+padrone;owner,master;isäntä,omistaja
+incastrato;stuck;jumissa
+principe;prince;prinssi
+batteria;battery or drums;patteri tai rummut
+danzatrice del ventre;belly dancer;vatsatanssija
+parrucchiere;hairdresser;kampaaja
+king kong;king kong;king kong;
+james bond;james bond;james bond
+chirurgia plastica;plastic surgery;plastiikka
+elettroshock;elettroshock;sähkösokki
+romantico;romantic;romanttinen
+depressione;depression;masennus
+ingrassare;to fatten up;lihota
+spina;thorn or fishbone or plug;piiki tai ruoto
+fenicottero;flamingo;flamingo
+gigante;giant;jättiläinen
+angelo;angel;enkeli
+stretto;narrow,tight;kapea
+braciola;chop;porsaankyljys
+ballerina;female dancer;naistanssija
+euforico;euphoric;euforinen
+stretta di mano;handshake;kaden puristus
+sedia a rotelle;wheelchair;pyörätuoli
+veleno;poison;myrky
+scivolo;slide;liukumäki
+galleggiare;to float;kellua
+cattivo;bad;ilkeä,huono,paha
+tiro alla fune;tug-of-war;köydenveto
+pac-man;pac-man;pac-man
+pugnalare;to stab;haavoittaa tikarilla
+tango;tango;tango
+strangolare;to strangle;kuristaa
+strega;witch;noita
+marinaio;sailor;merimies
+pugno;fist;nyrkki
+levitare;to levitate;levitoida
+laurea;(university) degree;yliopiston tutkinto
+portiere;doorkeeper or goalkeeper;talonmies tai maalivahti
+macellaio;butcher;lihakauppias
+sculacciata;spank;selkäsauna
+pelliccia;fur (coat);turkki (vaate)
+hostess di volo;air hostess;lentoemäntä
+gonfio;swollen,inflated;turvonnut
+vigile urbano;traffic policeman;liikennepoliisi
+salto in lungo;long jump;pituushyppy
+delfino;dolphin;delfiini
+inchino;bow,curtsey;kumarrus
+frankenstein;frankenstein;frankenstein
+cowboy;cowboy;cowboy
+zoppicare;to limp;ontua
+ballare;to dance;tanssia
+yoga;yoga;jooga
+suonare il violino;to play the violin;soittaa viulua
+avere paura;to be afraid, to fear;pelätä
+bagnarsi;to get wet;kastella itsensä
+pittore;painter;maalari
+tacchi a spillo;stiletto heels;piikkikorkko kengät
+parata;parade;paraati
+autostop;hitchhiking;lifti
+superman;superman;superman
+soffiare;to blow;puhaltaa
+urto;clash,collision;tönäisy
+slow motion;slow motion;slow motion
+sciare;to ski;hiihtää
+nuotare a rana;to do the breaststroke;sammakkouinti
+nudo;naked;alasti
+robot;robot;robotti
+capriola;somersault;kuperkeikka

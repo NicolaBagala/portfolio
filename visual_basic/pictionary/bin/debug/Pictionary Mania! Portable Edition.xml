@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pictionary Mania! Portable Edition
+</name>
+</assembly>
+<members>
+<member name="T:PMPE.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.AbandonGame">
+<summary>
+  Looks up a localized string similar to Abandon the game?.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.AboutNotice">
+<summary>
+  Looks up a localized string similar to The first version of this game was created in 2010 with Visual Studio 2005. 
+
+This version is a full refactor of the first, done in 2022 with Visual Studio 2022.
+
+
+The sounds are free to use for non-commercial applications.
+
+Pictionary and Pictionary Mania! are trademarks of Mattel, Inc. This program was created as a programming exercise and it does not reproduce the original game&apos;s full mechanics. I don&apos;t make any money out of it and it can&apos;t be sold. 
+
+The background image is based on a picture o [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.allinthewrist_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.app_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.blip_sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.classic_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.ConfirmReload">
+<summary>
+  Looks up a localized string similar to Starting a new game will reload all databases, and any words that have already appeared may do so again. 
+
+Continue?.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.directadraw_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.drawback_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.eng_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.fin_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.gong_sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.ita_flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.LastWordWarning">
+<summary>
+  Looks up a localized string similar to This word is last one left! Once you&apos;re done, press &quot;New game&quot; to start over if you wish..
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.loader_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.MissingDatabaseAll">
+<summary>
+  Looks up a localized string similar to 
+No database is available, so the game can&apos;t be played. Either restore a backup of the databases or reinstall the application to solve the problem..
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.MissingDatabaseSome">
+<summary>
+  Looks up a localized string similar to 
+Corresponding categories aren&apos;t playable and have been disabled. Remaining categories can still be played. Either restore a backup of the databases or reinstall the application to solve the problem..
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.MissingDatabaseStub">
+<summary>
+  Looks up a localized string similar to The following databases are missing or unaccessible:
+
+.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.peopleputty_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.pictionary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.settings_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.shuteye_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.start_sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:PMPE.My.Resources.Resources.tick_sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>

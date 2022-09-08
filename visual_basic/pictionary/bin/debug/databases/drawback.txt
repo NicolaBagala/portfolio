@@ -1,0 +1,382 @@
+simbolo del dollaro;dollar symbol;dollarin merkki
+numero civico;street number;kadunnumero
+tram;tram;raitiovaunu
+chiave;key;avain
+pistola;pistol;pistooli
+cannone;cannon;tykki
+segno ok;ok-sign;ok-merkki
+mongolfiera;montgolfier,hot-air balloon;kuumailmapallo
+pisellino;swee'pea;hajuherne
+gomma da masticare;chewing-gum;purukumi
+ombrellone;beach umbrella;aurinkovarjo;canna da zucchero;sugarcane;sokeriruoko
+carota;carrot;porkkana
+stivale;boot;saapas
+codice morse;morse code;morsetus
+@;@;@
+mandarino;tangerine;mandariini
+piede;foot;jalkapöytä
+sole;sun;aurinko
+mouse;mouse (device); hiiri (atk)
+premio;prize;palkinto
+valigetta;briefcase;(pieni)laukku
+sassofono;saxophone;saksofoni
+cavalletto;trestle;maalausteline
+salame;salami;meetvursti
+ramo;branch;oksa
+fiammifero;match (tool);tulitikku
+cappello a cilindro;tophat;silinterihattu
+mannaia;cleaver,meat axe;lihakirves
+lampione;street lamp;lyhtypylväs
+missile;missile;ohjus
+pala;shovel;lapio
+cornice;frame (ex. of a paint);kehys
+carota;carrot;porkkana
+femmina;female;naaras
+minigonna;miniskirt;minihame
+barattolo;pot,can;purkki
+scatola;box;laatikko
+rossetto;lipstick;huulipuna
+busto;bust;rintakehä
+bocca;mouth;suu
+su;up;ylös
+frusta;whip,lash;piiska
+pallavolo;volleyball;lentopallo
+caviglia;ankle;nilkka
+peluche;plush,felt,fluffy tou;pehmolelu
+euro;euro;euro
+gabbia;cage;häkki
+apostrofo;apostrophe;heittomerkki
+coperta;blanket;peitto
+tappo di bottiglia;cap,plug,cork;pullonkorkki
+frittelle;pancakes;letut
+fumetto;comic strip;sarjakuva
+punto e virgola;semicolon;puolipiste
+p greco;pi (greek letter);pi (kreikkalainen kirjain)
+punto interrogativo;question mark;kysymysmerkki
+fagiolo;bean;papu
+basket;basketball;koripallo
+metro;meter;metri
+ferrovia;railway;rautatie
+guanto da baseball;baseball glove;pesäpalloräpylä
+gancio;hook;haka
+chiave;key;avain
+cubetto di ghiaccio;ice cube;jääkuutio
+catena;chain;ketju
+congiunzione;conjunction (gramm.) or junction,link
+konjunktio
+croce rossa;red cross;punainenristi
+campanello;door buzzer;ovikello
+croce di ferro;iron cross;rautaristi
+esagono;hexagon;kuusikulmio
+fionda;slingshot;ritsa
+ananas;pineapple;ananas
+champagne;champagne;champagne
+barriera;barrier;este
+annaffiatoio;watering can;kastelukannu
+papillon;bow tie;rusetti
+stella;star;tähti
+panino;sandwich;sämpylä
+paraorecchie;earflap;korvaläpät
+punto;point;piste
+palla 8;ball number 8;pallo nro 8
+beach volley;beach volley;beach volley
+timbro;stamp or tone (of voice);sointi tai leimä
+orsetto di peluche;teddy bear;nallekarhu
+guanto;glove;käsine
+cintura;belt;vyö
+blocco;block or stoppage;möhkäle tai blokki tai saarto
+arco e freccia;bow and arrow;jousi ja nuoli
+filo spinato;barbed wire;piikkilanka
+stella di davide;star of david;daavidintähti
+pentola d'oro;pot full of gold;kattila täynnä kultaa
+anguria;watermelon;vesimeloni
+pentagramma;staff (music);nuottiviivasto
+stella marina;starfish;meritähti
+lanterna;lantern,lyhty
+fungo a ombrello;umbrella shaped mushroom;sateenvarjon muotoinen sieni
+ariete;ram,tup;oinas
+guizzo;wriggle,frisk;värähdys
+trolley;trolley;trolley
+ferro di cavallo;horseshoe;hevosenkenkä
+cd;cd;cd
+cielo;sky;taivas
+grancassa;bass drum;bassorumpu
+chicco di caffé;coffee-bean;kahvinpapu
+borsa;bag;laukku
+tridente;trident;hankotahkko
+foglia di fico;fig leaf;viikunalehti
+fantasma;ghost;kummitus
+tazza;cup;kuppi
+tubo di scarico;draining pipe;viemäriputki
+tris;three of a kind;kolmoset
+lacrima;tear;kyynel
+braccio;arm;käsivarsi
+pistola;pistol;pistooli
+lecca lecca;lollipop;tikkari
+italia;italy;italia
+mezz'asta;at half mast;puolitangossa
+forchetta;fork (cutlery);haarukka
+salsiccia;sausage;makkara
+anguilla;eel;ankerias
+camion;truck;kuorma-auto
+cervello;brain;aivot
+crostata;tart;piirakka
+mirino;foresight (tool);tähtäin
+lapide;tombstone;hautakivi
+penna;pen (for writing); kynä
+peperoncino;chilli;chilipaprika
+candito;candied (fruit);sokeroitu hedelmäpala
+moneta;coin;kolikko
+palanchino;crowbar;sorkkarauta
+cazzuola;trowel;muurauslasta
+busta;bag;pussi
+ditale;thimble;sormustin
+verme;worm;mato
+pugno;fist;nyrkki
+commedia;commedy;komedia
+pagnotta;(round) loaf;limppu,pyöreä leipä
+tetto;roof;katto
+finestra;window;ikkuna
+pennarello;marker;tussi
+puntina;drawing pin;piirustusnasta
+hula hoop;hula hoop;hula-vanne
+cannuccia;straw (tool);pilli
+luna;moon;kuu
+pendolo;pendulum;heiluri
+basette;sideburns;pulisongit
+stella cadente;shooting star;tähdenlento
+punto esclamativo;exclamation mark;huutomerkki
+conto;bill;lasku
+colonia;colony;siirtomaa
+brandy;brandy;brandy
+bacchetta magica;magic wand;taikasauva
+chicco di grano;wheat grain
+vehnänjyvä
+triangolo;triangle;kolmio
+cioccolato;chocolate;suklaa
+petali;petal;terälehdet
+sedia;chair;tuoli
+piattino;saucer;pieni lautanen
+vaso;vase;vaasi
+imbuto;funnel;suppilo
+bolla;bubble;kupla
+quadrato;square;ruutu
+uovo di pasqua;easter egg (food);pääsiäismuna
+burrocacao;lip balm;kakaovoi
+dito del piede;toe;varvas
+fuoco;fire;tuli
+ganasce;jaws, brake-shoes;puristinpidike
+mandorla;almond;manteli
+ombrello;umbrella;sateenvarjo
+grilletto;trigger;liipaisin
+colonna;column or pillar;pylväs tai sarake
+appendere;to hang up;ripustaa
+blackjack;blackjack;blackjack
+pioggia;rain;sade
+candela;candle;kynttilä
+tubo;pipe;putki
+fischietto;whistle;pilli (soitin)
+gelatine;gelatine,jelly;liivatteet
+coltellino svizzero;swiss army knife;linkkuveitsi
+barile;barrel,cask;tynnyri
+albero;tree;puu (kasvi)
+asso;ace (cards);ässä (pelikortit)
+appendino;coat hook;ripustin
+sporgenza;protrusion;uloke
+parallelo;parallel;samansuuntainen
+giù;down;alas
+equazione;equation;yhtälö
+riparo;shelter;suoja
+stendino;clothes rack;pyykinkuivausteline
+medaglia;medal;mitali
+strisce;stripes;raidat
+calcio;calcium or kick or football;kalsium tai potku tai jalkapallo
+mattarello;rolling pin;kaulin
+camino;chimney;takka
+capelli;hair;hiukset
+spatola;spatula;lasta
+clarinetto;clarinet;klarinetti
+padella;frying pan;paistinpannu
+tombola;tombola,bingo;bingo
+trifoglio;clover;apila
+parentesi;parenthesis,bracket;sulkumerkki
+grattarsi;to scratch oneself;raapia itseään
+ketchup;ketchup;ketsuppi
+limone;lemon;citruuna
+bersaglio;target;maalikohde
+camera d'aria;inner tube;sisärengas
+asterisco;asterisk;asteriski
+clacson;klaxon,horn (car);auton torvi
+perline;pearls;helmit
+cacciavite;screw driver;ruuvimeisseli
+calzoncini;shorts (clothes);shortsit
+diadema;diadem;otsavanne
+dito;finger;sormi
+dadi;dices;nopat
+borsetta;handbag;käsilaukku
+primavera;spring (season);kevät
+biglie;billiard ball, marble;
+pollice;thumb;peukalo
+cetriolo;cucumber;kurkku (vihannes)
+sapone;soap;saippua
+noce di cocco;coconut;kookopähkinä
+forca;gallows;hirsipuu
+regno unito;united kingdom;yhdistynyt kuningaskunta
+falcetto;sickle;sirppi
+smorfia;grimace;irvistys
+torcia;torch;taskulampu
+virgola;comma;pilkku
+spiedo;skewer;paistinvarras
+telefono cellulare;mobile phone;matkapuhelin
+mano;hand;käsi
+pomodoro;tomato;tomaatti
+muro;wall;muuri
+lepre;hare;jänis
+manubrio;handlebar;ohjaustanko
+tromba;trumpet;trumpetti
+anello;ring;sormus
+matita;pencil;lyijykynä
+basco;basque or beret;baski tai baskeri
+ciambella;doughnut;rinkeli
+barba;beard;parta
+volante;steering wheel;ratti, ohjauspyörä
+pupilla; pupil (eye);silmäterä
+brocca;jug;kannu
+fiore;flower;kukka
+maniglia;handle;kahva
+radioattivo;radioactive;radioaktiivinen
+periodo;period;periodi
+righello;ruler,scale;viivoitin
+gomma;gum,rubber or eraser;kumi tai pyyhekumi
+patata;potato;peruna
+terra;land, earth or the Earth;maa tai maapallo
+testa;head;pää
+foglia d'acero;maple leaf;vaahteran lehti
+spalline;shoulder pad;olkaimet
+cuore;heart;sydän
+becco;beak;nokka
+stuzzicadente;toothpick;hammastikku
+olive;olives;oliivit
+pennello;paint brush;pensseli
+arcobaleno;rainbow;sateenkaari
+pesce;fish;kala
+crocifisso;crucifix;krusifiksi
+raggio;ray or radius;säde
+proiettile;projectile,bullet;ammus,luoti
+arancia;orange (fruit);appelsiini
+disco;disk;levy
+pastiglia;pill;pilleri
+cupola;dome,cupola;kupoli
+pianeta;planet;planeetta
+puma;puma;puuma
+più;plus or more;plus tai enemmän
+scala;stairs;portaat
+gamba;leg;jalka,sääri
+giostra;merry-go-round;karuselli
+treno;train;juna
+lago;lake;järvi
+strofinaccio;duster,cloth;rätti
+tappetino per il mouse;mousepad;hiirimatto
+anfora;amphora;amfora
+elefante;elephant;norsu
+pallone da calcio; football (the ball itself);jalkapallo (esine)
+calza;sock (clothe);sukka
+chiave di violino;treble clef;nuottiavain
+anelli olimpici;olympic rings;olympiarenkaat
+ruota;wheel,tyre;pyörä
+naso;nose;pyörä
+filo;thread (textile);lanka
+stringa;lace;nauha
+elica;helix,screw,rotor;potkuri
+vichingo;viking;viikingi
+palla da rugby;rugby ball;rugbypallo
+osso;bone;luu
+canna da pesca;fishing rod;onkivapa
+ghiaccio;ice;jää
+porta;door;ovi
+carta igienica;toilet paper;vessapaperi
+legame;bond,tie;side tai yhteys
+frisbee;frisbee;frisbee
+gocce per gli occhi;eyedrops;silmätipat
+palloncino;balloon;ilmapallo
+manganello;truncheon;poliisin pamppu
+percentuale;percentage;prosentti
+oblò;porthole;hytti-ikkuna
+schiuma da barba;shaving cream;partovaahto
+lampone;raspberry;vadelma
+mantello;cape;viitta
+divieto d'accesso;no entry/keep out sign;"pääsy kielletty"
+dvd;dvd;dvd
+pasticcino;pastry,tartlet;pieni leivos
+cucchiaio;spoon:lusikka
+non approvato;rejected;ei hyväksytty, hylätty
+caramella;candy;karkki
+centipede;millepede;tuhatjalkainen
+masso;boulder;kivenlohkare
+artiglio;claw;raatelukynsi
+cuscino;pillow;tyyny
+serpente;snake;käärme
+violino;violin;viulu
+rapa;turnip;nauris
+dirigibile;dirigible,airship;ilmalaiva
+reggiseno;bra;rintaliivit
+gradini;step,rung;porrasaskelet
+prugna;plum;lumu
+impronta digitale;finger print;sormenjaljet
+trampoli;stilts;puujalat
+rettangolo;rectangle;suorakulmio
+zucca;pumpkin;kurpitsa
+zolletta di zucchero;lump of sugar;sokeripala
+rompighiaccio;icebreaker;jäänmurtaja
+lucchetto;padlock;lukko
+bandiera;flag;maan lippu
+triste;sad;surullinen;scodella;(soup) bowl;keittolautanen
+cipolla;onion;sipuli
+miele;honey;hunaja
+diario;diary;päiväkirja
+lingua;tongue or language;kieli
+cuffie;earphones;kuulokkeet
+tronco d'albero;trunk of a tree;puunkrunko
+pilone;pillar;pylväs
+presina;pot holder;pannulappu
+braccialetto;bracelet;rannerengas
+amo;fish hook;ongenkoukku
+cometa;comet;komeetta
+sorpasso;overtaking (cars);ohitus
+paralume;lampshade;lampunvarjostin
+tappo;cork,stopper;korkki
+teschio;skull;pääkallo
+forcella;bicycle fork;pyöränhaarukka
+ricamo;embroidery;koruompelu
+zampa di coniglio;rabbit's leg;kanin jalka
+ago;needle;neula
+tunnel;tunnel;tunneli
+mazza da baseball;baseball bat;pesäpallonuija
+uccello;bird;lintu
+bottiglia;bottle;pullo
+forchetta; fork (for food);haarukka
+wurstel;wurstel;wurstel
+mestolo;ladle;kauha
+sigaro;cigar;sikaari
+aureola;aureola;pyhitiyskehä
+zattera;raft;lautta
+clava;club,bludgeon
+foglia;leaf;puun lehti
+coniglietto;bunny;pupu
+san valentino;valentine's day;ystävien päivä
+carta;paper;paperi
+ascia;axe;kirves
+mela;apple;omena
+calice;goblet,chalice;malja
+barca;boat;vene
+sedile;seat;istuin
+mostro;monster;hirviö
+campana;bell;kello (esim. kirkon)
+labbra;lips;huulet
+pera;pear;päärynä
+incrocio;crossroads;risteys
+martello;hammer;vasara
+bottone;button;nappi
+segno della pace;peace sign;rauhan merkki
+candelabro;branched candlestick, candelabrum;kyntelikkö
+dentiera;denture;tekohampaat
