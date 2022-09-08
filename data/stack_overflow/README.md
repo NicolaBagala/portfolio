@@ -28,7 +28,7 @@ _**Tech used:** MS SQL Server, Tableau_
     <li>Use the table above to calculate the desired averages, grouping by tag, year, and month.</li>    
 </ul>
 
-<p align="justify">Nearly all the above steps had other steps in between that I did not mention for brevity, but you can see them all in my thoroughly commented <a href="https://github.com/NicolaBagala/portfolio/blob/master/stack_overflow/script.sql">code.</a> The whole procedure, from start to finish, winds up manipulating well over 11 million rows (probably closer to 20); it execution time varies from 45 seconds to around 1 minute and 10 seconds. Its final result are two tables, <code>tag_breakdown</code> and <code>tag_count_by_date</code>, which I exported to CSV and built a simple <a href="https://public.tableau.com/app/profile/nicola.bagal./viz/StackOverflow_16558943509010/SOdashboard">Tableau visualisation</a> with.
+<p align="justify">Nearly all the above steps had other steps in between that I did not mention for brevity, but you can see them all in my thoroughly commented <a href="https://github.com/NicolaBagala/portfolio/blob/master/data/stack_overflow/script.sql">code.</a> The whole procedure, from start to finish, winds up manipulating well over 11 million rows (probably closer to 20); it execution time varies from 45 seconds to around 1 minute and 10 seconds. Its final result are two tables, <code>tag_breakdown</code> and <code>tag_count_by_date</code>, which I exported to CSV and built a simple <a href="https://public.tableau.com/app/profile/nicola.bagal./viz/StackOverflow_16558943509010/SOdashboard">Tableau visualisation</a> with.
 
 
 

@@ -2,7 +2,7 @@
 
 _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Google Forms_
 
-**Note:** This is a summary of the project results. Click [here](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb) for the full project with code, or [here](https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb) for a code-free version of the full project.
+**Note:** This is a summary of the project results. Click [here](https://github.com/NicolaBagala/portfolio/blob/master/data/tomb_raider_survey/tr_survey.ipynb) for the full project with code, or [here](https://github.com/NicolaBagala/portfolio/blob/master/data/tomb_raider_survey/codefree/tr_survey_codefree.ipynb) for a code-free version of the full project.
 
 <p align="justify">The <i>Tomb Raider</i> franchise, which revolves around the adventures of archaeologist Lara Croft, has seen a number of reboots and revamps of its main character over the years. Sometimes, the differences are small—like those between the Classic and LAU series; in other cases, the differences are quite big, like in the case of the Classic and <i>Survivor</i> series. As a fan myself, I was interested in understanding the preferences of the fanbase not only for different series, but also for the three different versions of Lara. More precisely, I wanted to find an answer to three main questions:</p>
 
@@ -45,6 +45,6 @@ _**Tech used:** JupyterLab, Python, Pandas, Matplotlib, SciPy, Google Sheets, Go
   <img src="codefree/figures/figure_24.svg">
 </p>
 
-<p align="justify">This isn't but a fraction of the full project; if you want to read more, have a look at the <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/tr_survey.ipynb">analysis notebook</a> or its <a href="https://github.com/NicolaBagala/portfolio/blob/master/tomb_raider_survey/codefree/tr_survey_codefree.ipynb">code-free</a> version, if you couldn't care less about code!</p>
+<p align="justify">This isn't but a fraction of the full project; if you want to read more, have a look at the <a href="https://github.com/NicolaBagala/portfolio/blob/master/data/tomb_raider_survey/tr_survey.ipynb">analysis notebook</a> or its <a href="https://github.com/NicolaBagala/portfolio/blob/master/data/tomb_raider_survey/codefree/tr_survey_codefree.ipynb">code-free</a> version, if you couldn't care less about code!</p>
   
 
